@@ -1,0 +1,2341 @@
+Account Number,Organization,City,Country,CDP Region,0
+10495,City of Las Vegas,Las Vegas,United States of America,North America,3
+10495,"City of Las Vegas, NV",Las Vegas,United States of America,United States of America,2
+10595,Leeds City Council,Leeds,United Kingdom of Great Britain and Northern Ireland,Europe,2
+10806,London Borough of Enfield,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+10894,City of Los Angeles,Los Angeles,United States of America,North America,3
+10894,"City of Los Angeles, CA",Los Angeles,United States of America,United States of America,2
+1093,City of Atlanta,Atlanta,United States of America,North America,2
+1093,"City of Atlanta, GA",Atlanta,United States of America,United States of America,2
+11315,City of Manchester,nan,United Kingdom of Great Britain and Northern Ireland,Europe,4
+1184,City of Austin,Austin,United States of America,North America,3
+1184,"City of Austin, TX",Austin,United States of America,United States of America,2
+13067,City of New Orleans,New Orleans,United States of America,North America,3
+13067,"City of New Orleans, LA",New Orleans,United States of America,United States of America,2
+13113,Newcastle City Council,Newcastle upon Tyne,United Kingdom of Great Britain and Northern Ireland,Europe,3
+13490,Northumberland County Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+13506,Nottingham City Council,Nottingham,United Kingdom of Great Britain and Northern Ireland,Europe,3
+14088,City of Oslo,Oslo,Norway,Europe,3
+14088,Oslo Municipality,Oslo,Norway,Europe,1
+14088,Oslo kommune,Oslo,Norway,Europe,1
+14136,Oxford City Council,Oxford,United Kingdom of Great Britain and Northern Ireland,Europe,1
+14344,"City of Park City, UT",Park City,United States of America,North America,3
+14344,"City of Park City, UT",Park City,United States of America,United States of America,2
+14874,"City of Portland, OR","Portland, OR",United States of America,North America,3
+14874,"City of Portland, OR","Portland, OR",United States of America,United States of America,2
+1499,Ajuntament de Barcelona,Barcelona,Spain,Europe,4
+1499,City of Barcelona,Barcelona,Spain,Europe,1
+15014,City of Prague,Prague,Czechia,Europe,1
+15515,Reading Borough Council,Reading,United Kingdom of Great Britain and Northern Ireland,Europe,2
+16581,City of Seattle,Seattle,United States of America,North America,3
+16581,"City of Seattle, WA",Seattle,United States of America,United States of America,2
+17411,Southend on Sea Borough Council,Southend-on-Sea,United Kingdom of Great Britain and Northern Ireland,Europe,2
+17411,Southend on Sea City Council,Southend-on-Sea,United Kingdom of Great Britain and Northern Ireland,Europe,1
+18078,Swale Borough Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+1850,Birmingham City Council,Birmingham,United Kingdom of Great Britain and Northern Ireland,Europe,3
+19233,Municipality of Torres Vedras,Torres Vedras,Portugal,Europe,1
+19233,Município de Torres Vedras,Torres Vedras,Portugal,Europe,4
+20113,City of Vancouver,Vancouver,Canada,North America,3
+20113,"City of Vancouver, BC",Vancouver,Canada,Canada,1
+20113,"City of Vancouver, BC",Vancouver,Canada,nan,1
+2028,City of Bonn,Bonn,Germany,Europe,1
+2185,Bristol City Council,Bristol,United Kingdom of Great Britain and Northern Ireland,Europe,4
+2282,British Columbia,nan,Canada,Canada,1
+2430,City of Burlington,Burlington,United States of America,North America,3
+2430,"City of Burlington, VT",Burlington,United States of America,United States of America,1
+2621,Cambridgeshire County Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+31009,City of Copenhagen,Copenhagen,Denmark,Europe,3
+31009,Copenhagen Municipality,Copenhagen,Denmark,Europe,1
+31009,København Kommune,Copenhagen,Denmark,Europe,1
+31051,Coventry City Council,Coventry,United Kingdom of Great Britain and Northern Ireland,Europe,5
+31052,City of Cardiff,Cardiff,United Kingdom of Great Britain and Northern Ireland,Europe,5
+31053,Wigan Council,Wigan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+31054,Belfast City Council,Belfast,United Kingdom of Great Britain and Northern Ireland,Europe,2
+31055,Glasgow City Council,Glasgow,United Kingdom of Great Britain and Northern Ireland,Europe,4
+31056,Edinburgh City Council,Edinburgh,United Kingdom of Great Britain and Northern Ireland,Europe,3
+31090,District of Columbia,"Washington, DC",United States of America,North America,3
+31090,"District of Columbia, DC","Washington, DC",United States of America,United States of America,2
+31108,City of Houston,Houston,United States of America,North America,3
+31108,"City of Houston, TX",Houston,United States of America,United States of America,2
+31109,City of Melbourne,City of Melbourne,Australia,Oceania,2
+31109,City of Melbourne,City of Melbourne,Australia,Southeast Asia and Oceania,3
+31110,City of Rome,Roma,Italy,Europe,1
+31110,Comune di Roma Capitale,Roma,Italy,Europe,1
+31110,Roma Capitale,Roma,Italy,Europe,3
+31111,Tokyo Metropolitan Government,Tokyo,Japan,East Asia,5
+31112,Kaohsiung City Government,Kaohsiung,"Taiwan, China",East Asia,1
+31112,Kaohsiung City Government,Kaohsiung,"Taiwan, Greater China",East Asia,4
+31113,City of Yokohama,Yokohama,Japan,East Asia,5
+31114,City of Sydney,City of Sydney,Australia,Oceania,2
+31114,City of Sydney,City of Sydney,Australia,Southeast Asia and Oceania,3
+31115,City of Johannesburg,Johannesburg,South Africa,Africa,5
+31117,City of Toronto,Toronto,Canada,North America,3
+31117,"City of Toronto, ON",Toronto,Canada,Canada,1
+31117,"City of Toronto, ON",Toronto,Canada,nan,1
+31146,Addis Ababa City Administration,Addis Ababa,Ethiopia,Africa,5
+31148,City of Amsterdam,Amsterdam,Netherlands,Europe,3
+31148,Gemeente Amsterdam,Amsterdam,Netherlands,Europe,1
+31148,Municipality of Amsterdam,Amsterdam,Netherlands,Europe,1
+31149,City of Athens,Athens,Greece,Europe,3
+31149,Dímos Athinaíon,Athens,Greece,Europe,1
+31149,Municipality of Athens,Athens,Greece,Europe,1
+31150,Bangkok Metropolitan Administration,Bangkok,Thailand,Southeast Asia,2
+31150,Bangkok Metropolitan Administration,Bangkok,Thailand,Southeast Asia and Oceania,3
+31151,City of Basel-Stadt,Basel,Switzerland,Europe,3
+31151,Stadt Basel,Basel,Switzerland,Europe,1
+31153,Bundeshauptstadt Berlin,Berlin,Germany,Europe,1
+31153,City of Berlin,Berlin,Germany,Europe,4
+31154,Bogotá Distrito Capital,Bogotá,Colombia,Latin America,5
+31155,City of Buenos Aires,Buenos Aires,Argentina,Latin America,5
+31156,Municipality of Curitiba,Curitiba,Brazil,Latin America,5
+31157,City of Delhi,Delhi,India,South Asia,2
+31157,City of Delhi,Delhi,India,South and West Asia,3
+31158,Hanoi City,Hanoi,Viet Nam,Southeast Asia,2
+31158,Hanoi City,Hanoi,Viet Nam,Southeast Asia and Oceania,3
+31163,Istanbul Metropolitan Municipality,Istanbul,Turkey,Europe,5
+31164,Ho Chi Minh City,Ho Chi Minh,Viet Nam,Southeast Asia,2
+31164,Ho Chi Minh City,Ho Chi Minh,Viet Nam,Southeast Asia and Oceania,3
+31165,City of Heidelberg,Heidelberg,Germany,Europe,1
+31165,Stadt Heidelberg,Heidelberg,Germany,Europe,4
+31166,Jakarta City Government,Jakarta,Indonesia,Southeast Asia,2
+31166,Jakarta City Government,Jakarta,Indonesia,Southeast Asia and Oceania,3
+31167,City of Lagos,Lagos,Nigeria,Africa,5
+31168,City District Government Karachi,Karachi,Pakistan,South Asia,2
+31168,City District Government Karachi,Karachi,Pakistan,South and West Asia,3
+31169,Government of Hong Kong Special Administrative Region,Hong Kong,"China, Hong Kong Special Administrative Region",East Asia,5
+31170,Metropolitan Municipality of Lima,Lima,Peru,Latin America,5
+31171,Ayuntamiento de Madrid,Madrid,Spain,Europe,4
+31171,City of Madrid,Madrid,Spain,Europe,1
+31172,Mexico City,Mexico City,Mexico,Latin America,5
+31173,City of Milan,Milano,Italy,Europe,1
+31173,Comune di Milano,Milano,Italy,Europe,4
+31174,Moscow Government,Moscow,Russian Federation,Europe,4
+31175,City of Paris,Paris,France,Europe,4
+31175,Ville de Paris,Paris,France,Europe,1
+31176,Prefeitura do Rio de Janeiro,Rio de Janeiro,Brazil,Latin America,5
+31177,Salt Lake City,Salt Lake City,United States of America,North America,3
+31177,"Salt Lake City, UT",Salt Lake City,United States of America,United States of America,2
+31178,City of Mumbai,Mumbai,India,South Asia,2
+31179,Gemeente Rotterdam,Rotterdam,Netherlands,Europe,4
+31179,Municipality of Rotterdam,Rotterdam,Netherlands,Europe,1
+31180,Región Metropolitana de Santiago,Santiago,Chile,Latin America,5
+31181,City of Philadelphia,Philadelphia,United States of America,North America,3
+31181,"City of Philadelphia, PA",Philadelphia,United States of America,United States of America,2
+31182,City of San Francisco,San Francisco,United States of America,North America,3
+31182,"City of San Francisco, CA",San Francisco,United States of America,United States of America,2
+31184,Prefeitura de São Paulo,São Paulo,Brazil,Latin America,5
+31185,City of Warsaw,Warsaw,Poland,Europe,4
+31185,Miasto Stołeczne Warszawa,Warsaw,Poland,Europe,1
+31186,Changwon City,Changwon,Republic of Korea,East Asia,4
+31187,Seoul Metropolitan Government,Seoul,Republic of Korea,East Asia,5
+31221,State of Virginia,nan,United States of America,United States of America,1
+31446,Taipei City Government,Taipei,"Taiwan, China",East Asia,1
+31446,Taipei City Government,Taipei,"Taiwan, Greater China",East Asia,4
+3203,City of Chicago,Chicago,United States of America,North America,3
+3203,"City of Chicago, IL",Chicago,United States of America,United States of America,2
+32480,City of Adelaide,Adelaide,Australia,Oceania,2
+32480,City of Adelaide,Adelaide,Australia,Southeast Asia and Oceania,3
+32550,City of Denver,Denver,United States of America,North America,3
+32550,"City of Denver, CO",Denver,United States of America,United States of America,2
+3417,New York City,New York City,United States of America,North America,3
+3417,"New York City, NY",New York City,United States of America,United States of America,2
+3422,Greater London Authority,London,United Kingdom of Great Britain and Northern Ireland,Europe,5
+3429,City of Stockholm,Stockholm,Sweden,Europe,4
+3429,Stockholms stad,Stockholm,Sweden,Europe,1
+35268,City of Boston,Boston,United States of America,North America,3
+35268,"City of Boston, MA",Boston,United States of America,United States of America,2
+35272,City of New Haven (CT),New Haven ,United States of America,North America,1
+35274,"City of Portland, ME",Portland,United States of America,North America,1
+35274,"City of Portland, ME",Portland,United States of America,United States of America,2
+35274,"City of Portland, ME","Portland, ME",United States of America,North America,2
+35393,City of St Louis,St Louis,United States of America,North America,3
+35393,"City of St Louis, MO",St Louis,United States of America,United States of America,1
+35449,City of Zürich,Zürich,Switzerland,Europe,1
+35449,Stadt Zürich,Zürich,Switzerland,Europe,4
+35475,City of Calgary,Calgary,Canada,North America,3
+35475,"City of Calgary, AB",Calgary,Canada,Canada,1
+35475,"City of Calgary, AB",Calgary,Canada,nan,1
+35755,Village of Kadiovacik,Urla,Turkey,Europe,5
+35848,Municipality of Belo Horizonte,Belo Horizonte,Brazil,Latin America,5
+35853,City of Baltimore,Baltimore,United States of America,North America,3
+35853,"City of Baltimore, MD",Baltimore,United States of America,United States of America,2
+35854,City of Brussels,Brussels,Belgium,Europe,3
+35856,Busan Metropolitan City,Busan-si,Republic of Korea,East Asia,2
+35857,City of Cincinnati,Cincinnati,United States of America,North America,3
+35857,"City of Cincinnati, OH",Cincinnati,United States of America,United States of America,2
+35858,City of Cape Town,Cape Town,South Africa,Africa,5
+35859,City of Cleveland,Cleveland,United States of America,North America,3
+35859,"City of Cleveland, OH",Cleveland,United States of America,United States of America,2
+35860,City of Dallas,Dallas,United States of America,North America,3
+35860,"City of Dallas, TX",Dallas,United States of America,United States of America,1
+35860,"City of Dallas, TX",Dallas,nan,United States of America,1
+35862,City of Detroit,Detroit,United States of America,North America,3
+35862,"City of Detroit, MI",Detroit,United States of America,United States of America,1
+35863,eThekwini Municipality,Durban,South Africa,Africa,5
+35864,Ekurhuleni Metropolitan Municipality,Ekurhuleni,South Africa,Africa,5
+35865,Municipality of Fortaleza,Fortaleza,Brazil,Latin America,5
+35867,Region Metropolitana de Guadalajara,Guadalajara,Mexico,Latin America,5
+35868,Free and Hanseatic City of Hamburg,Hamburg,Germany,Europe,1
+35870,City of Miami,Miami,United States of America,North America,2
+35870,"City of Miami, FL",Miami,United States of America,United States of America,2
+35871,City of Monterrey,Monterrey,Mexico,Latin America,2
+35872,Municipality of Recife,Recife,Brazil,Latin America,5
+35873,Medellín,Medellín,Colombia,Latin America,2
+35873,Municipality of Medellín,Medellín,Colombia,Latin America,3
+35874,City of Phoenix,Phoenix,United States of America,North America,3
+35874,"City of Phoenix, AZ",Phoenix,United States of America,United States of America,2
+35877,City of Pittsburgh,Pittsburgh,United States of America,North America,3
+35877,"City of Pittsburgh, PA",Pittsburgh,United States of America,United States of America,2
+35878,City of Sacramento,Sacramento,United States of America,North America,3
+35878,"City of Sacramento, CA",Sacramento,United States of America,United States of America,2
+35879,City of Minneapolis,Minneapolis,United States of America,North America,3
+35879,"City of Minneapolis, MN",Minneapolis,United States of America,United States of America,2
+35880,Municipality of Porto Alegre,Porto Alegre,Brazil,Latin America,5
+35882,"City of Tampa, FL",Tampa,United States of America,United States of America,1
+35883,City of San José,"San José, CA",United States of America,North America,3
+35883,"City of San José, CA","San José, CA",United States of America,United States of America,2
+35884,City of San Diego,San Diego,United States of America,North America,3
+35884,"City of San Diego, CA",San Diego,United States of America,United States of America,2
+35885,Tel Aviv-Yafo Municipality,Tel Aviv-Yafo,Israel,Middle East,5
+35886,City of Turin,Torino,Italy,Europe,1
+35886,Comune di Torino,Torino,Italy,Europe,4
+35887,Ajuntament de Valencia,Valencia,Spain,Europe,2
+35887,Ajuntament de València,Valencia,Spain,Europe,1
+35893,City of Dar es Salaam,Dar es Salaam,United Republic of Tanzania,Africa,5
+35894,Ville de Montreal,Montréal,Canada,North America,3
+35894,"Ville de Montreal, QC",Montréal,Canada,Canada,1
+35894,"Ville de Montreal, QC",Montréal,Canada,nan,1
+35897,Municipality of Campinas,Campinas,Brazil,Latin America,5
+35898,Greater Manchester,Manchester,United Kingdom of Great Britain and Northern Ireland,Europe,5
+35902,City of Nagoya,Nagoya,Japan,East Asia,2
+35903,Le Grand Casablanca,Casablanca,Morocco,Africa,4
+35904,Kolkata Metropolitan Area,Kolkata,India,South Asia,2
+35904,Kolkata Metropolitan Area,Kolkata,India,South and West Asia,3
+35905,Corporation of Chennai,Chennai,India,South Asia,2
+35905,Corporation of Chennai,Chennai,India,South and West Asia,3
+35907,Bangalore,Bangalore,India,South and West Asia,3
+35907,Bengaluru,Bangalore,India,South Asia,2
+35910,Pune Municipal Corporation,Pune,India,South Asia,2
+35910,Pune Municipal Corporation,Pune,India,South and West Asia,1
+35912,Surat Municipal Corporation,Surat,India,South Asia,2
+35913,City of Nairobi,Nairobi,Kenya,Africa,5
+35914,Greater Hyderabad Municipal Corporation,Hyderabad,India,South Asia,1
+35915,City of Jaipur,Jaipur,India,South and West Asia,2
+35993,Singapore Government,Singapore,Singapore,Southeast Asia,2
+35993,Singapore Government,Singapore,Singapore,Southeast Asia and Oceania,3
+35995,City of Brasília,Brasília,Brazil,Latin America,1
+35995,Distrito Federal (Brasília),Brasília,Brazil,Latin America,1
+36002,Ville de Kinshasa,Ville de Kinshasa,Democratic Republic of the Congo,Africa,4
+36004,City of Abidjan,Abidjan,Côte d'Ivoire,Africa,5
+36032,Ville de Dakar,Dakar,Senegal,Africa,4
+36036,City of Ibadan,Ibadan,Nigeria,Africa,5
+36037,Santiago de Cali,Santiago de Cali,Colombia,Latin America,5
+36039,Accra Metropolitan Assembly,Accra,Ghana,Africa,5
+36041,Municipality of Belém,Belém,Brazil,Latin America,2
+36041,Prefeitura de Belém,Belém,Brazil,Latin America,1
+36042,Ville de Douala,Douala,Cameroon,Africa,1
+36043,Abuja Federal Capital Territory,Abuja,Nigeria,Africa,5
+36044,Seferihisar Municipality,Seferihisar,Turkey,Europe,2
+36045,Santiago de Guayaquil,Santiago de Guayaquil,Ecuador,Latin America,4
+36152,City of Tallinn,Tallinn,Estonia,Europe,1
+36152,Tallinn City Council,Tallinn,Estonia,Europe,1
+36152,Tallinna linn,Tallinn,Estonia,Europe,1
+36154,Vilnius City Municipality,Vilnius,Lithuania,Europe,1
+36158,City of Naples,Napoli,Italy,Europe,1
+36158,Comune di Napoli,Napoli,Italy,Europe,4
+36159,City of Lisbon,Lisbon,Portugal,Europe,4
+36159,Município de Lisboa,Lisbon,Portugal,Europe,1
+36218,Fukuoka City,Fukuoka,Japan,East Asia,1
+36218,Fukuoka City Government,Fukuoka,Japan,East Asia,1
+36223,Antananarivo,Antananarivo,Madagascar,Africa,5
+36242,Comune di Aosta,Aosta,Italy,Europe,1
+36247,City of Arezzo,Arezzo,Italy,Europe,1
+36252,Comune di Oristano,Oristano,Italy,Europe,1
+36254,City of Venice,Venezia,Italy,Europe,1
+36254,Comune di Venezia,Venezia,Italy,Europe,4
+36261,Comune di Bolzano,Bolzano,Italy,Europe,4
+36262,City of Genoa,Genova,Italy,Europe,1
+36262,Comune di Genova,Genova,Italy,Europe,4
+36263,Comune di Ravenna,Ravenna,Italy,Europe,2
+36265,Comune di Reggio Emilia,Reggio Emilia,Italy,Europe,2
+36274,Comune di Bologna,Bologna,Italy,Europe,4
+36277,Comune di Cosenza,Cosenza,Italy,Europe,1
+36279,Comune di Cremona,Cremona,Italy,Europe,1
+36282,Comune di Chieti,Chieti,Italy,Europe,2
+36283,Comune di Como,Como,Italy,Europe,1
+36285,City of Florence,Firenze,Italy,Europe,1
+36285,Comune di Firenze,Firenze,Italy,Europe,4
+36286,City of Ferrara,Ferrara,Italy,Europe,1
+36286,Comune di Ferrara,Ferrara,Italy,Europe,4
+36289,Comune di Caserta,Caserta,Italy,Europe,1
+36410,City of Memphis,Memphis,United States of America,North America,3
+36410,"City of Memphis, TN",Memphis,United States of America,United States of America,2
+36426,City of Rīga,Riga,Latvia,Europe,1
+36426,Riga City,Riga,Latvia,Europe,3
+36426,Rīgas valstspilsētas pašvaldība,Riga,Latvia,Europe,1
+36469,City of L'Aquila,L'Aquila,Italy,Europe,1
+36469,Comune dell'Aquila,L'Aquila,Italy,Europe,4
+36470,Comune della Spezia,La Spezia,Italy,Europe,4
+36477,Comune di Lucca,Lucca,Italy,Europe,4
+36484,Comune di Monza,Monza,Italy,Europe,1
+36489,Comune di Olbia,Olbia,Italy,Europe,1
+36491,Comune di Pesaro,Pesaro,Italy,Europe,1
+36492,City of Parma,Parma,Italy,Europe,1
+36492,Comune di Parma,Parma,Italy,Europe,4
+36493,Comune di Pescara,Pescara,Italy,Europe,2
+36494,City of Padua,Padova,Italy,Europe,1
+36494,Comune di Padova,Padova,Italy,Europe,4
+36495,Comune di Piacenza,Piacenza,Italy,Europe,1
+36501,City of Prato,Prato,Italy,Europe,1
+36501,Comune di Prato,Prato,Italy,Europe,3
+36504,Comune di Rimini,Rimini,Italy,Europe,4
+36512,Comune di Teramo,Tearmo,Italy,Europe,1
+36515,City of Trento,Trento,Italy,Europe,1
+36517,City of Treviso,Treviso,Italy,Europe,1
+36522,Comune di Verbania,Verbania,Italy,Europe,2
+37038,City of Cologne,Cologne,Germany,Europe,2
+37241,City of Berkeley,Berkeley,United States of America,North America,2
+37241,"City of Berkeley, CA",Berkeley,United States of America,United States of America,2
+37261,City of Pietermaritzburg,Pietermaritzburg,South Africa,Africa,5
+42120,City of Salvador,Salvador,Brazil,Latin America,5
+42123,City of Goiânia,Goiânia,Brazil,Latin America,5
+42178,Distrito Metropolitano de Quito,Quito,Ecuador,Latin America,5
+42384,City of Gothenburg,Göteborg,Sweden,Europe,1
+42384,Göteborgs Stad,Göteborg,Sweden,Europe,1
+42384,Göteborgs stad,Göteborg,Sweden,Europe,1
+42388,Intendencia de Montevideo,Montevideo,Uruguay,Latin America,5
+43905,City of San Antonio,San Antonio,United States of America,North America,3
+43905,"City of San Antonio, TX",San Antonio,United States of America,United States of America,2
+43907,City of Indianapolis,Indianapolis,United States of America,North America,3
+43907,"City of Indianapolis, IN",Indianapolis,United States of America,United States of America,2
+43908,City of Milwaukee,Milwaukee,United States of America,North America,1
+43908,"City of Milwaukee, WI",Milwaukee,United States of America,United States of America,2
+43909,City of Orlando,Orlando,United States of America,North America,3
+43909,"City of Orlando, FL",Orlando,United States of America,United States of America,2
+43910,City of Columbus,Columbus,United States of America,North America,3
+43910,"City of Columbus, OH",Columbus,United States of America,United States of America,2
+43911,City of Ottawa,Ottawa,Canada,North America,3
+43911,"City of Ottawa, ON",Ottawa,Canada,Canada,1
+43911,"City of Ottawa, ON",Ottawa,Canada,nan,1
+43912,City of Edmonton,Edmonton,Canada,North America,3
+43912,"City of Edmonton, AB",Edmonton,Canada,Canada,1
+43912,"City of Edmonton, AB",Edmonton,Canada,nan,1
+43914,City of Charlotte,Charlotte,United States of America,North America,3
+43914,"City of Charlotte, NC",Charlotte,United States of America,United States of America,2
+43917,Capital Municipality of Sofia,Sofia,Bulgaria,Europe,1
+43917,Obshtina Sofia,Sofia,Bulgaria,Europe,1
+43917,Sofia Municipality,Sofia,Bulgaria,Europe,3
+43920,City Municipality of Ljubljana,Ljubljana,Slovenia,Europe,1
+43920,City of Ljubljana,Ljubljana,Slovenia,Europe,3
+43920,Mestna občina Ljubljana,Ljubljana,Slovenia,Europe,1
+43921,City of Zagreb,Zagreb,Croatia,Europe,2
+43921,Grad Zagreb,Zagreb,Croatia,Europe,1
+43923,City of Hannover,Hannover,Germany,Europe,1
+43923,City of Hanover,Hannover,Germany,Europe,1
+43926,City of Mannheim,Mannheim,Germany,Europe,3
+43926,Stadt Mannheim,Mannheim,Germany,Europe,1
+43928,Canberra,Canberra,Australia,Oceania,1
+43928,Canberra,Canberra,Australia,Southeast Asia and Oceania,3
+43930,Gemeente Den Haag,The Hague,Netherlands,Europe,1
+43930,Municipality of The Hague,The Hague,Netherlands,Europe,1
+43930,The Hague,The Hague,Netherlands,Europe,3
+43932,Auckland Council,Auckland,New Zealand,Oceania,2
+43932,Auckland Council,Auckland,New Zealand,Southeast Asia and Oceania,3
+43934,City of Perth,Perth,Australia,Southeast Asia and Oceania,3
+43937,Wellington City Council,Wellington,New Zealand,Oceania,2
+43937,Wellington City Council,Wellington,New Zealand,Southeast Asia and Oceania,3
+43938,"The Executive Council, Govt of Dubai",Dubai,United Arab Emirates,Middle East,5
+43940,City of Malmö,Malmö,Sweden,Europe,1
+43940,Malmö Stad,Malmö,Sweden,Europe,3
+43940,Malmö stad,Malmö,Sweden,Europe,1
+43969,Ciudad de Asunción,Asunción,Paraguay,Latin America,3
+43970,Alcaldía Distrital de Barranquilla,Barranquilla,Colombia,Latin America,5
+43975,Municipalidad de Magdalena del Mar,Magdalena del Mar,Peru,Latin America,5
+44073,Municipalité de Rabat,Rabat,Morocco,Africa,1
+44076,Bursa Metropolitan Municipality,Bursa,Turkey,Europe,1
+44077,Kampala City,Kampala,Uganda,Africa,3
+44080,City of Kitakyushu,nan,Japan,East Asia,3
+44081,Lusaka City Council,Lusaka,Zambia,Africa,3
+44180,Daegu Metropolitan City,Daegu-si,Republic of Korea,East Asia,2
+44181,Gwangju Metropolitan City,Gwangju-si,Republic of Korea,East Asia,1
+44184,Ulsan Metropolitan City,Ulsan-si,Republic of Korea,East Asia,2
+44185,Suwon City,Suwon,Republic of Korea,East Asia,5
+44187,Goyang City,Goyang-si,Republic of Korea,East Asia,2
+44188,Yongin Metropolitan Government,Yongin-si,Republic of Korea,East Asia,1
+44191,Ansan City,Ansan-si,Republic of Korea,East Asia,3
+44194,Jeonju City,Jeonju-si,Republic of Korea,East Asia,1
+44196,Hwaseong City,Hwaseong-si,Republic of Korea,East Asia,2
+44196,Hwaseong Metropolitan Government,Hwaseong-si,Republic of Korea,East Asia,1
+44205,Gwangmyeong City,Gwangmyeong-si,Republic of Korea,East Asia,2
+44210,Yeosu City,Yeosu-si,Republic of Korea,East Asia,2
+44210,Yeosu Metropolitan Government,Yeosu-si,Republic of Korea,East Asia,1
+44299,Dangjin City,Dangjin-si,Republic of Korea,East Asia,3
+45219,Município de Aparecida,Aparecida,Brazil,Latin America,4
+46263,Amdavad Municipal Corporation (Ahmedabad),Ahmedabad,India,South Asia,1
+46263,Amdavad Municipal Corporation (Ahmedabad),Ahmedabad,India,South and West Asia,1
+46470,Ayuntamiento de Vitoria-Gasteiz,Vitoria-Gasteiz,Spain,Europe,4
+46470,Municipality of Vitoria-Gasteiz,Vitoria-Gasteiz,Spain,Europe,1
+46473,Ayuntamiento de Zaragoza,Zaragoza,Spain,Europe,1
+46473,City of Zaragoza,Zaragoza,Spain,Europe,3
+46473,Municipality of Saragossa (Spain),Zaragoza,Spain,Europe,1
+46514,City of Porto,Porto,Portugal,Europe,4
+46514,Município do Porto,Porto,Portugal,Europe,1
+49172,City of St. Petersburg,St. Petersburg,United States of America,North America,2
+49172,"City of St. Petersburg, FL",St. Petersburg,United States of America,United States of America,2
+49326,"Ville de Quebec, QC",Quebec,Canada,Canada,1
+49326,"Ville de Quebec, QC",Quebec,Canada,nan,1
+49327,City of Providence,Providence,United States of America,North America,3
+49327,"City of Providence, RI",Providence,United States of America,United States of America,2
+49330,Kansas City,Kansas City,United States of America,North America,3
+49330,"Kansas City, MO",Kansas City,United States of America,United States of America,2
+49333,"City of Louisville, KY",Louisville,United States of America,North America,3
+49333,"City of Louisville, KY",Louisville,United States of America,United States of America,2
+49334,"City of Richmond, VA","Richmond, VA",United States of America,North America,3
+49334,"City of Richmond, VA","Richmond, VA",United States of America,United States of America,1
+49335,Metropolitan Government of Nashville and Davidson County,Nashville,United States of America,North America,3
+49335,"Metropolitan Government of Nashville and Davidson County, TN",Nashville,United States of America,United States of America,2
+49339,City and County of Honolulu,Honolulu,United States of America,North America,3
+49339,"City and County of Honolulu, HI",Honolulu,United States of America,United States of America,2
+49342,City of Rochester,Rochester,United States of America,North America,3
+49342,"City of Rochester, NY",Rochester,United States of America,United States of America,2
+49343,City of El Paso,El Paso,United States of America,North America,3
+49343,"City of El Paso, TX",El Paso,United States of America,United States of America,2
+49344,City of Raleigh,Raleigh,United States of America,North America,3
+49344,"City of Raleigh, NC",Raleigh,United States of America,United States of America,2
+49345,City of Birmingham,"Birmingham, AL",United States of America,North America,1
+49345,"City of Birmingham, AL","Birmingham, AL",United States of America,United States of America,2
+49346,"City of Allentown, PA",Allentown,United States of America,United States of America,2
+49347,City of Omaha,Omaha,United States of America,North America,2
+49347,"City of Omaha, NE",Omaha,United States of America,United States of America,2
+49359,City of Harare,Harare,Zimbabwe,Africa,4
+49360,City of Tshwane,Pretoria - Tshwane,South Africa,Africa,3
+49360,City of Tshwane,Tshwane,South Africa,Africa,2
+49362,Ulaanbaatar City,Ulaanbaatar City,Mongolia,East Asia,1
+49367,Freetown City,Freetown,Sierra Leone,Africa,5
+49386,City of Hiroshima,Hiroshima,Japan,East Asia,1
+49389,Kyoto,Kyoto,Japan,East Asia,1
+49389,Kyoto City,Kyoto,Japan,East Asia,2
+49787,City of Benicia,Benicia,United States of America,North America,2
+50154,City of Turku,Turku,Finland,Europe,4
+50154,Turun kaupunki,Turku,Finland,Europe,1
+50203,Gaziantep Metropolitan Municipality,Gaziantep,Turkey,Europe,4
+50208,Adana Metropolitan Municipality,Adana,Turkey,Europe,3
+50211,Tbilisi City,Tbilisi,Georgia,Europe,4
+50220,Métropole Nice Côte d'Azur,Nice,France,Europe,3
+50220,Métropole de Nice,Nice,France,Europe,1
+50235,City of Kraków,Krakow,Poland,Europe,1
+50354,Alcaldía de Tegucigalpa,Tegucigalpa,Honduras,Latin America,4
+50356,Ayuntamiento de Morelia,Morelia,Mexico,Latin America,3
+50357,Ciudad de Mendoza,Mendoza,Argentina,Latin America,4
+50358,Gobierno Municipal de Toluca de Lerdo,nan,Mexico,Latin America,4
+50359,Gobierno Municipal de León de los Aldamas,León de los Aldamas,Mexico,Latin America,4
+50361,Ayuntamiento de Hermosillo,Hermosillo,Mexico,Latin America,4
+50362,Municipalidad de Concepción,Concepción,Chile,Latin America,5
+50364,Gobierno Autónomo Municipal de la Paz,La Paz (Bolivia),Bolivia (Plurinational State of),Latin America,1
+50364,Municipalidad de La Paz,La Paz (Bolivia),Bolivia (Plurinational State of),Latin America,4
+50365,Municipalidad  de Valparaíso,nan,Chile,Latin America,3
+50366,Ayuntamiento de Cuernavaca,Cuernavaca,Mexico,Latin America,1
+50367,Ayuntamiento de Culiacán,nan,Mexico,Latin America,2
+50368,Municipalidad de Provincial de Arequipa,Arequipa,Peru,Latin America,5
+50369,Ayuntamiento de San Luis Potosí,San Luis Potosí,Mexico,Latin America,2
+50370,Municipalidad de Tampico,Tampico,Mexico,Latin America,5
+50371,Municipalidad de Córdoba,Córdoba,Argentina,Latin America,2
+50373,Municipalidad  de Rosario,nan,Argentina,Latin America,2
+50373,Municipalidad de Rosario,nan,Argentina,Latin America,1
+50374,Alcaldia Distrital de Cartagena de Indias,Cartagena,Colombia,Latin America,3
+50375,Ayuntamiento de Chihuahua,Chihuahua,Mexico,Latin America,5
+50377,Municipio de Querétaro,nan,Mexico,Latin America,2
+50378,Municipalidad de San José,San José,Costa Rica,Latin America,5
+50380,Municipio de Bucaramanga,Bucaramanga,Colombia,Latin America,4
+50381,Municipio de Torreón,Torreón,Mexico,Latin America,4
+50382,Municipio de Mérida,Mérida,Mexico,Latin America,4
+50383,Prefeitura de Sorocaba,Sorocaba,Brazil,Latin America,5
+50384,Prefeitura de Florianópolis,Florianópolis,Brazil,Latin America,5
+50385,Prefeitura de Campo Grande,Campo Grande,Brazil,Latin America,5
+50386,Prefeitura de Cuiabá,Cuiabá,Brazil,Latin America,3
+50387,Prefeitura de Guarulhos,Guarulhos,Brazil,Latin America,5
+50388,Prefeitura de Natal,Natal,Brazil,Latin America,2
+50389,Prefeitura de Maceió,Maceió,Brazil,Latin America,3
+50390,Prefeitura de Teresina,nan,Brazil,Latin America,1
+50391,Prefeitura de Manaus,Manaus,Brazil,Latin America,4
+50392,Prefeitura de Vitória,Vitória,Brazil,Latin America,4
+50394,Prefeitura Municipal de João Pessoa,João Pessoa,Brazil,Latin America,5
+50395,Prefeitura de São Luís,São Luís,Brazil,Latin America,4
+50396,Prefeitura Municipal de Santos,Santos,Brazil,Latin America,4
+50397,Presidencia Municipal de Saltillo,nan,Mexico,Latin America,2
+50398,Ciudad de Juárez,Juárez,Mexico,Latin America,4
+50400,"City of Newark, NJ",Newark,United States of America,United States of America,2
+50401,City of Madison,Madison,United States of America,North America,1
+50401,"City of Madison, WI",Madison,United States of America,United States of America,2
+50540,City of Albuquerque,nan,United States of America,North America,1
+50540,"City of Albuquerque, NM",nan,United States of America,United States of America,2
+50541,City of Greensboro,Greensboro,United States of America,North America,3
+50541,"City of Greensboro, NC",Greensboro,United States of America,United States of America,2
+50543,Halifax Regional Municipality,Halifax,Canada,North America,3
+50543,"Halifax Regional Municipality, NS",Halifax,Canada,Canada,1
+50543,"Halifax Regional Municipality, NS",Halifax,Canada,nan,1
+50544,"City of Aurora, IL",Aurora,United States of America,North America,3
+50544,"City of Aurora, IL",Aurora,United States of America,United States of America,2
+50545,City of Henderson,Henderson,United States of America,North America,1
+50545,"City of Henderson, NV",Henderson,United States of America,United States of America,2
+50549,City of Fort Worth,Fort Worth,United States of America,North America,3
+50549,"City of Fort Worth, TX",Fort Worth,United States of America,United States of America,2
+50550,City of Buffalo,"Buffalo, NY",United States of America,North America,3
+50550,"City of Buffalo, NY","Buffalo, NY",United States of America,United States of America,2
+50551,City of Long Beach,Long Beach,United States of America,North America,3
+50551,"City of Long Beach, CA",Long Beach,United States of America,United States of America,1
+50553,City of Fresno,Fresno,United States of America,North America,1
+50554,"City of Mesa, AZ",Mesa,United States of America,United States of America,2
+50555,City of Hamilton,Hamilton,Canada,North America,3
+50555,"City of Hamilton, ON",Hamilton,Canada,Canada,1
+50555,"City of Hamilton, ON",Hamilton,Canada,nan,1
+50557,City of Norfolk,Norfolk,United States of America,North America,2
+50558,"City of London, ON","London, ON",Canada,Canada,1
+50558,"City of London, ON","London, ON",Canada,North America,3
+50558,"City of London, ON","London, ON",Canada,nan,1
+50559,"City of St Catharines, ON",St Catharines,Canada,Canada,1
+50559,"City of St Catharines, ON",St Catharines,Canada,North America,3
+50559,"City of St Catharines, ON",St Catharines,Canada,nan,1
+50560,City of Oakland,Oakland,United States of America,North America,3
+50560,"City of Oakland, CA",Oakland,United States of America,United States of America,2
+50562,City of Chula Vista,Chula Vista,United States of America,North America,2
+50562,"City of Chula Vista, CA",Chula Vista,United States of America,United States of America,2
+50565,City of Toledo,Toledo,United States of America,North America,3
+50566,City of Anchorage,Anchorage,United States of America,North America,3
+50566,"City of Anchorage, AK",Anchorage,United States of America,United States of America,1
+50568,City of Saskatoon,Saskatoon,Canada,North America,3
+50568,"City of Saskatoon, SK",Saskatoon,Canada,Canada,1
+50568,"City of Saskatoon, SK",Saskatoon,Canada,nan,1
+50569,"City of Stockton, CA",Stockton,United States of America,United States of America,2
+50571,City of Victoria,Victoria,Canada,North America,3
+50571,"City of Victoria, BC",Victoria,Canada,Canada,1
+50571,"City of Victoria, BC",Victoria,Canada,nan,1
+50572,"City of Saint Paul, MN",Saint Paul,United States of America,North America,3
+50572,"City of Saint Paul, MN",Saint Paul,United States of America,United States of America,2
+50574,City of Plano,Plano,United States of America,North America,3
+50574,"City of Plano, TX",Plano,United States of America,United States of America,2
+50577,City of Wichita,Wichita,United States of America,North America,1
+50577,"City of Wichita, KS",Wichita,United States of America,United States of America,2
+50578,City of Windsor,Windsor,Canada,North America,3
+50578,"City of Windsor, ON",Windsor,Canada,Canada,1
+50578,"City of Windsor, ON",Windsor,Canada,nan,1
+50579,City of Winnipeg,Winnipeg,Canada,North America,3
+50579,"City of Winnipeg, MB",Winnipeg,Canada,Canada,1
+50579,"City of Winnipeg, MB",Winnipeg,Canada,nan,1
+50650,City of Gibraltar,Gibraltar,Gibraltar,Europe,5
+50665,Município de Ovar,Ovar,Portugal,Europe,3
+50669,Municipality of Matosinhos,Matosinhos,Portugal,Europe,1
+50671,Município de Fafe,Fafe,Portugal,Europe,4
+50672,Município de Santarém,Santarém,Portugal,Europe,2
+50673,Municipality of Faro,Faro,Portugal,Europe,1
+50673,Município de Faro,Faro,Portugal,Europe,4
+50674,Municipality of Viseu,Viseu,Portugal,Europe,1
+50674,Município de Viseu,Viseu,Portugal,Europe,4
+50678,Municipality of Évora,Évora,Portugal,Europe,1
+50678,Município de Évora,Évora,Portugal,Europe,2
+50679,Município de Barreiro,Barreiro,Portugal,Europe,3
+50680,Municipality of Cascais,Cascais,Portugal,Europe,1
+50680,Município de Cascais,Cascais,Portugal,Europe,3
+50681,Município de Funchal,Funchal,Portugal,Europe,4
+50713,Chuncheon City,Chuncheon-si,Republic of Korea,East Asia,1
+50718,Uiwang City,Uiwang-si,Republic of Korea,East Asia,1
+50782,Dhaka City,Dhaka,Bangladesh,South and West Asia,3
+50782,Dhaka North City,Dhaka,Bangladesh,South Asia,2
+50792,Commune de Monaco,Monaco,Monaco,Europe,1
+50792,Municipality of Monaco,Monaco,Monaco,Europe,1
+50792,Ville de Monaco,Monaco,Monaco,Europe,3
+50794,Prefeitura Municipal de Caieiras,Caieiras,Brazil,Latin America,5
+51075,City of Shenzhen,Shenzhen,China,East Asia,5
+51079,Guatemala City,Guatemala City,Guatemala,Latin America,5
+51374,Prefeitura de Rio Branco,Rio Branco,Brazil,Latin America,5
+52164,Prefeitura Municipal de Macapá,Macapá,Brazil,Latin America,1
+52638,Prefeitura de Aracaju,Aracaju,Brazil,Latin America,5
+52894,City of Winston-Salem,Winston-Salem,United States of America,North America,3
+52894,"City of Winston-Salem, NC",Winston-Salem,United States of America,United States of America,2
+52896,"City of Fort Lauderdale, FL",Fort Lauderdale,United States of America,United States of America,2
+52897,City of Aspen,Aspen,United States of America,North America,3
+52897,"City of Aspen, CO",Aspen,United States of America,United States of America,2
+53171,State Government of Victoria,Melbourne,Australia,Oceania,1
+53241,City of Darwin,Darwin,Australia,Oceania,1
+53254,City of Hobart,Hobart,Australia,Oceania,2
+53254,City of Hobart,Hobart,Australia,Southeast Asia and Oceania,3
+53829,"City of Kingston, ON",Kingston,Canada,Canada,1
+53829,"City of Kingston, ON",Kingston,Canada,North America,2
+53829,"City of Kingston, ON",Kingston,Canada,nan,1
+53860,"City of Wilmington, NC",Wilmington,United States of America,North America,2
+53860,"City of Wilmington, NC",Wilmington,United States of America,United States of America,2
+53879,City of Jersey City,Jersey City,United States of America,North America,1
+53879,"City of Jersey City, NJ",Jersey City,United States of America,United States of America,1
+53899,"City of Worcester, MA",Worcester,United States of America,United States of America,1
+53921,"City of Tempe, AZ",Tempe,United States of America,North America,3
+53921,"City of Tempe, AZ",Tempe,United States of America,United States of America,2
+53931,"City of Alexandria, VA",Alexandria,United States of America,United States of America,1
+53959,"City of Fayetteville, AR",Fayetteville,United States of America,North America,3
+53959,"City of Fayetteville, AR",Fayetteville,United States of America,United States of America,2
+54026,City of Tacoma,Tacoma,United States of America,North America,3
+54026,"City of Tacoma, WA",Tacoma,United States of America,United States of America,2
+54027,"City of St. John's, NL",St. John’s,Canada,Canada,1
+54027,"City of St. John's, NL",St. John’s,Canada,nan,1
+54029,City of Spokane,Spokane,United States of America,North America,2
+54029,"City of Spokane, WA",Spokane,United States of America,United States of America,2
+54030,City of Little Rock,Little Rock,United States of America,North America,2
+54030,"City of Little Rock, AR",Little Rock,United States of America,United States of America,2
+54034,City of Grand Rapids,Grand Rapids,United States of America,North America,1
+54034,"City of Grand Rapids, MI",Grand Rapids,United States of America,United States of America,2
+54037,City of Des Moines,Des Moines,United States of America,North America,2
+54037,"City of Des Moines, IA",Des Moines,United States of America,United States of America,2
+54040,"City of Regina, SK",Regina,Canada,Canada,1
+54048,City of Knoxville,Knoxville,United States of America,North America,3
+54048,"City of Knoxville, TN",Knoxville,United States of America,United States of America,2
+54057,City of Lancaster,"Lancaster, CA",United States of America,North America,2
+54060,City of Greater Sudbury / Grand Sudbury,Sudbury,Canada,North America,3
+54060,"City of Greater Sudbury / Grand Sudbury, ON",Sudbury,Canada,Canada,1
+54060,"City of Greater Sudbury / Grand Sudbury, ON",Sudbury,Canada,nan,1
+54066,City of Fort Collins,Fort Collins,United States of America,North America,2
+54066,"City of Fort Collins, CO",Fort Collins,United States of America,United States of America,2
+54070,City of Eugene,Eugene,United States of America,North America,3
+54070,"City of Eugene, OR",Eugene,United States of America,United States of America,1
+54075,City of Lakewood,Lakewood,United States of America,North America,3
+54075,"City of Lakewood, CO",Lakewood,United States of America,United States of America,2
+54078,City of Hayward,Hayward,United States of America,North America,3
+54078,"City of Hayward, CA",Hayward,United States of America,United States of America,2
+54082,"City of Hollywood, FL",Hollywood,United States of America,North America,3
+54082,"City of Hollywood, FL",Hollywood,United States of America,United States of America,1
+54084,City of Guelph,Guelph,Canada,North America,2
+54084,"City of Guelph, ON",Guelph,Canada,Canada,1
+54084,"City of Guelph, ON",Guelph,Canada,nan,1
+54085,City of Savannah,Savannah,United States of America,North America,3
+54085,"City of Savannah, GA",Savannah,United States of America,United States of America,2
+54087,"City of Moncton, NB",Moncton,Canada,Canada,1
+54088,City of Peterborough,Peterborough,Canada,North America,2
+54088,"City of Peterborough, ON",Peterborough,Canada,Canada,1
+54088,"City of Peterborough, ON",Peterborough,Canada,nan,1
+54092,City of Ann Arbor,Ann Arbor,United States of America,North America,3
+54092,"City of Ann Arbor, MI",Ann Arbor,United States of America,United States of America,2
+54096,"City of Saint John, NB",Saint John,Canada,Canada,1
+54096,"City of Saint John, NB",Saint John,Canada,nan,1
+54098,City of Thunder Bay,Thunder Bay,Canada,North America,2
+54098,"City of Thunder Bay, ON",Thunder Bay,Canada,Canada,1
+54098,"City of Thunder Bay, ON",Thunder Bay,Canada,nan,1
+54100,"City of Columbia, MO","Columbia, MO",United States of America,North America,3
+54100,"City of Columbia, MO","Columbia, MO",United States of America,United States of America,2
+54102,City of Albany,Albany,United States of America,North America,3
+54102,"City of Albany, NY",Albany,United States of America,United States of America,2
+54104,City of Boulder,Boulder,United States of America,North America,3
+54104,"City of Boulder, CO",Boulder,United States of America,United States of America,2
+54105,"City of Duluth, MN",Duluth,United States of America,United States of America,2
+54108,City of Durham,"Durham, NC",United States of America,North America,3
+54109,City of Bloomington,Bloomington,United States of America,North America,3
+54109,"City of Bloomington, IN",Bloomington,United States of America,United States of America,2
+54110,City of Santa Monica,Santa Monica,United States of America,North America,3
+54110,"City of Santa Monica, CA",Santa Monica,United States of America,United States of America,2
+54111,City of Iowa City,Iowa City,United States of America,North America,3
+54111,"City of Iowa City, IA",Iowa City,United States of America,United States of America,2
+54113,City of Flagstaff,Flagstaff,United States of America,North America,3
+54113,"City of Flagstaff, AZ",Flagstaff,United States of America,United States of America,2
+54114,City of Asheville,Asheville,United States of America,North America,3
+54114,"City of Asheville, NC",Asheville,United States of America,United States of America,2
+54116,City of Dubuque,Dubuque,United States of America,North America,3
+54116,"City of Dubuque, IA",Dubuque,United States of America,United States of America,2
+54119,City of Palo Alto,Palo Alto,United States of America,North America,3
+54119,"City of Palo Alto, CA",Palo Alto,United States of America,United States of America,2
+54124,City of Fremont,Fremont,United States of America,North America,3
+54124,"City of Fremont, CA",Fremont,United States of America,United States of America,2
+54125,"City of Boise, ID",Boise,United States of America,United States of America,2
+54128,City of Reno,Reno,United States of America,North America,1
+54128,"City of Reno, NV",Reno,United States of America,United States of America,2
+54144,City of Yarra,Richmond,Australia,Oceania,2
+54253,Wollongong City Council,Wollongong,Australia,Oceania,2
+54253,Wollongong City Council,Wollongong,Australia,Southeast Asia and Oceania,3
+54265,City of Newcastle,Newcastle,Australia,Southeast Asia and Oceania,1
+54268,Dunedin City Council,nan,New Zealand,Oceania,2
+54268,Dunedin City Council,nan,New Zealand,Southeast Asia and Oceania,1
+54270,Palmerston North City Council,nan,New Zealand,Southeast Asia and Oceania,1
+54274,Rotorua Lakes Council,Rotorua,New Zealand,Oceania,1
+54274,Rotorua Lakes Council,Rotorua,New Zealand,Southeast Asia and Oceania,2
+54276,City of Greater Bendigo,Bendigo,Australia,Oceania,1
+54277,New Plymouth District Council,New Plymouth District,New Zealand,Southeast Asia and Oceania,2
+54277,New Plymouth District Council,nan,New Zealand,Oceania,2
+54282,Hangzhou City People's Government,Hangzhou City,China,East Asia,3
+54289,Wuhan Municipal People's Government,Wuhan,China,East Asia,5
+54290,Qingdao Municipal Government,Qingdao,China,East Asia,5
+54291,Chengdu Municipal Government,Chengdu,China,East Asia,5
+54293,People's Government of Guangzhou Municipality,Guangzhou,China,East Asia,5
+54298,Dalian Municipal People's Government,Dalian,China,East Asia,4
+54305,Rajkot Municipal Corporation,nan,India,South Asia,2
+54305,Rajkot Municipal Corporation,nan,India,South and West Asia,2
+54306,Medan City Government,nan,Indonesia,Southeast Asia,1
+54306,Medan City Government,nan,Indonesia,Southeast Asia and Oceania,1
+54308,Coimbatore City Municipal Corporation,nan,India,South Asia,1
+54308,Coimbatore City Municipal Corporation,nan,India,South and West Asia,1
+54311,Thane Municipal Corporation,nan,India,South and West Asia,1
+54317,Dehradun Municipal Corporation,Dehradun,India,South and West Asia,1
+54318,Government of Tangerang City,Tangerang City,Indonesia,Southeast Asia,1
+54318,Government of Tangerang City,Tangerang City,Indonesia,Southeast Asia and Oceania,1
+54319,Shimla Municipal Corporation,nan,India,South Asia,1
+54325,Gwalior Municipal Corporation,nan,India,South Asia,1
+54327,Semarang City Government,nan,Indonesia,Southeast Asia,1
+54327,Semarang City Government,nan,Indonesia,Southeast Asia and Oceania,2
+54328,City of Niigata,nan,Japan,East Asia,2
+54329,Bogor City Government,Bogor,Indonesia,Southeast Asia,2
+54329,Bogor City Government,Bogor,Indonesia,Southeast Asia and Oceania,3
+54330,City of Kawasaki,nan,Japan,East Asia,2
+54331,City of Sagamihara,nan,Japan,East Asia,2
+54335,Government of the City of Yogyakarta,nan,Indonesia,Southeast Asia,1
+54335,Government of the City of Yogyakarta,nan,Indonesia,Southeast Asia and Oceania,1
+54336,City of Hamamatsu,nan,Japan,East Asia,1
+54337,Greater Amman Municipality,Amman,Jordan,Middle East,5
+54338,City of Saitama,nan,Japan,East Asia,3
+54340,Adachi City,nan,Japan,East Asia,2
+54341,Toyama City,nan,Japan,East Asia,3
+54342,Jbail-Byblos Municipality,nan,Lebanon,Middle East,2
+54345,City Government of Davao,Davao,Philippines,Southeast Asia,2
+54345,City Government of Davao,Davao,Philippines,Southeast Asia and Oceania,2
+54347,Pasig City,Pasig,Philippines,Southeast Asia,1
+54347,Pasig City,Pasig,Philippines,Southeast Asia and Oceania,1
+54348,The Local Government of Quezon City,Quezon City,Philippines,Southeast Asia,2
+54348,The Local Government of Quezon City,Quezon City,Philippines,Southeast Asia and Oceania,3
+54349,Balikpapan City Government,nan,Indonesia,Southeast Asia,2
+54349,Balikpapan City Government,nan,Indonesia,Southeast Asia and Oceania,2
+54352,City of Muntinlupa,nan,Philippines,Southeast Asia and Oceania,1
+54354,City Government of Makati,Makati,Philippines,Southeast Asia,2
+54354,City Government of Makati,Makati,Philippines,Southeast Asia and Oceania,1
+54356,City of Parañaque,Parañaque,Philippines,Southeast Asia and Oceania,1
+54360,Shah Alam City Council,nan,Malaysia,Southeast Asia,1
+54360,Shah Alam City Council,nan,Malaysia,Southeast Asia and Oceania,2
+54361,Petaling Jaya City Council,Petaling Jaya,Malaysia,Southeast Asia,1
+54361,Petaling Jaya City Council,Petaling Jaya,Malaysia,Southeast Asia and Oceania,1
+54364,City of Kuala Lumpur,Kuala Lumpur,Malaysia,Southeast Asia,2
+54364,City of Kuala Lumpur,Kuala Lumpur,Malaysia,Southeast Asia and Oceania,2
+54367,Melaka Historic City Council,nan,Malaysia,Southeast Asia,1
+54367,Melaka Historic City Council,nan,Malaysia,Southeast Asia and Oceania,1
+54370,Municipal Council of Penang,nan,Malaysia,Southeast Asia and Oceania,1
+54386,Tainan City Government,Tainan,"Taiwan, China",East Asia,1
+54386,Tainan City Government,Tainan,"Taiwan, Greater China",East Asia,3
+54388,Iskandar Regional Development Authority,Iskandar,Malaysia,Southeast Asia,2
+54388,Iskandar Regional Development Authority,Iskandar,Malaysia,Southeast Asia and Oceania,3
+54389,Taichung City Government,Taichung,"Taiwan, China",East Asia,1
+54389,Taichung City Government,Taichung,"Taiwan, Greater China",East Asia,4
+54390,Hsinchu County Government,Hsinchu County,"Taiwan, China",East Asia,1
+54390,Hsinchu County Government,Hsinchu County,"Taiwan, Greater China",East Asia,4
+54391,Nonthaburi City,nan,Thailand,Southeast Asia and Oceania,1
+54395,Taoyuan City Government,Taoyuan,"Taiwan, China",East Asia,1
+54395,Taoyuan City Government,Taoyuan,"Taiwan, Greater China",East Asia,4
+54396,Can Tho City,Can Tho City,Viet Nam,Southeast Asia,2
+54402,City of Lahti,Lahti,Finland,Europe,4
+54402,Lahden kaupunki,Lahti,Finland,Europe,1
+54403,City of Tampere,Tampere,Finland,Europe,1
+54403,Tampereen kaupunki,Tampere,Finland,Europe,1
+54405,Vejle Kommune,Vejle,Denmark,Europe,1
+54408,Aarhus Kommune,Aarhus,Denmark,Europe,1
+54408,Aarhus Municipality,Aarhus,Denmark,Europe,1
+54409,City of Espoo,Espoo,Finland,Europe,4
+54409,Espoon kaupunki,Espoo,Finland,Europe,1
+54410,City of Oulu,City of Oulu,Finland,Europe,1
+54430,Ville du Havre,Le Havre,France,Europe,3
+54443,Landeshauptstadt Magdeburg,Magdeburg,Germany,Europe,1
+54444,Mülheim an der Ruhr,Mülheim a.d.R,Germany,Europe,1
+54455,City of Kiel,Kiel,Germany,Europe,1
+54457,Hanse- und Universitätsstadt Rostock,Rostock,Germany,Europe,1
+54457,Hansestadt Rostock,Rostock,Germany,Europe,3
+54459,City of Reykjavík,Reykjavík,Iceland,Europe,4
+54459,Reykjavíkurborg,Reykjavík,Iceland,Europe,1
+54461,Gemeente Groningen,Groningen,Netherlands,Europe,1
+54470,Municipality of Tilburg,LH Tilburg,Netherlands,Europe,1
+54478,Gemeente Nijmegen,Nijmegen,Netherlands,Europe,4
+54478,Municipality of Nijmegen,Nijmegen,Netherlands,Europe,1
+54488,Trondheim Municipality,Trondheim,Norway,Europe,4
+54488,Trondheim kommune,Trondheim,Norway,Europe,1
+54491,Municipality of Málaga,Málaga,Spain,Europe,2
+54492,Bergen Municipality,Bergen,Norway,Europe,1
+54492,Bergen kommune,Bergen,Norway,Europe,1
+54493,Kristiansand Municipality,Kristiansand,Norway,Europe,2
+54497,City of Wroclaw,Wroclaw,Poland,Europe,2
+54497,Miasto Wrocław,Wroclaw,Poland,Europe,1
+54498,Ayuntamiento de Murcia,Murcia,Spain,Europe,4
+54498,Municipality of Murcia,Murcia,Spain,Europe,1
+54504,Ayuntamiento de Alicante,Alicante,Spain,Europe,1
+54510,Umeå kommun,Umeå,Sweden,Europe,1
+54510,Umeå municipality,Umeå,Sweden,Europe,3
+54513,Municipality of Uppsala,Uppsala,Sweden,Europe,3
+54513,Uppsala Municipality,Uppsala,Sweden,Europe,1
+54513,Uppsala kommun,Uppsala,Sweden,Europe,1
+54517,City Örebro,Örebro,Sweden,Europe,3
+54518,City of Helsingborg,Helsingborg,Sweden,Europe,1
+54518,Helsingborgs stad,Helsingborg,Sweden,Europe,1
+54519,City of Lund,Lund,Sweden,Europe,1
+54519,Lund Municipality,Lund,Sweden,Europe,1
+54519,Lunds kommun,Lund,Sweden,Europe,1
+54520,Ville de Lausanne,Lausanne,Switzerland,Europe,1
+54521,BCP Council,Bournemouth,United Kingdom of Great Britain and Northern Ireland,Europe,5
+54527,Stadt Bern,Bern 8,Switzerland,Europe,1
+54528,City of Portsmouth,Portsmouth,United Kingdom of Great Britain and Northern Ireland,Europe,1
+54529,City of Leicester,Leicester,United Kingdom of Great Britain and Northern Ireland,Europe,5
+54530,City of Brighton & Hove,Hove,United Kingdom of Great Britain and Northern Ireland,Europe,3
+54531,Preston City Council,Preston,United Kingdom of Great Britain and Northern Ireland,Europe,1
+54533,City of Geneva,Genève,Switzerland,Europe,1
+54535,Newport City Council,Newport,United Kingdom of Great Britain and Northern Ireland,Europe,2
+54537,Sunderland City Council,Sunderland,United Kingdom of Great Britain and Northern Ireland,Europe,2
+54538,Bath and North East Somerset,Bath,United Kingdom of Great Britain and Northern Ireland,Europe,4
+54559,Ugu District Municipality,Ugu,South Africa,Africa,2
+54575,Vhembe District Municipality,Vhembe,South Africa,Africa,1
+54579,Sekhukhune District Municipality,Sekhukhune District Municipality,South Africa,Africa,3
+54588,West Coast District Municipality,West Coast District Municipality,South Africa,Africa,2
+54593,Buffalo City Metropolitan Municipality,Buffalo,South Africa,Africa,4
+54603,Alcaldia de Pasto,Pasto,Colombia,Latin America,4
+54605,Municipalidad de Cusco,Cusco,Peru,Latin America,2
+54606,Prefeitura Municipal de Bauru,Bauru,Brazil,Latin America,2
+54608,Alcaldia de Montería,Montería,Colombia,Latin America,3
+54609,Alcaldia de Trujillo,Trujillo,Peru,Latin America,2
+54611,Alcaldia de Manizales,Manizales,Colombia,Latin America,4
+54612,Alcaldia de Valledupar,Valledupa,Colombia,Latin America,1
+54613,Alcaldia de Valdivia,Valdivia,Chile,Latin America,3
+54614,Prefeitura da Cidade de São José do Rio Preto,São José do Rio Preto,Brazil,Latin America,3
+54615,Prefeitura da Estância Turística de São Roque,São Roque,Brazil,Latin America,1
+54616,Gobierno Autonomo de Cochabamba,Cochabamba,Bolivia (Plurinational State of),Latin America,1
+54617,Alcaldia de Pereira,Pereira,Colombia,Latin America,4
+54619,Municipalidad  Provincial de Piura,Piura,Peru,Latin America,1
+54620,Gobierno Municipal de la Ciudad de Paraná,la Ciudad de Paraná,Argentina,Latin America,2
+54622,Prefeitura da Estância Turística de ITU,Estância Turística de ITU,Brazil,Latin America,1
+54622,Prefeitura da Estância Turística de Itu,Estância Turística de ITU,Brazil,Latin America,1
+54623,Prefeitura de Betim,Betim,Brazil,Latin America,4
+54625,Prefeitura de Londrina,Londrina,Brazil,Latin America,3
+54627,Prefeitura de Joinville,Joinville,Brazil,Latin America,1
+54631,Prefeitura de Cajamar,Cajamar,Brazil,Latin America,1
+54632,Prefeitura de Caruaru,Caruaru,Brazil,Latin America,3
+54633,Prefeitura de Lorena,Lorena,Brazil,Latin America,5
+54637,Alcaldía de Cuenca,Cuenca,Ecuador,Latin America,5
+54641,Prefeitura de Limeira,Limeira,Brazil,Latin America,3
+54646,Prefeitura de Duque de Caxias,Duque de Caxias,Brazil,Latin America,2
+54647,Prefeitura de Jundiaí,Jundiaí,Brazil,Latin America,5
+54649,Prefeitura de Tatuí,Tatuí,Brazil,Latin America,3
+54650,Prefeitura de Palmas,Palmas,Brazil,Latin America,5
+54651,Prefeitura de Santo André,Santo André,Brazil,Latin America,2
+54652,Prefeitura de Osasco,Osasco,Brazil,Latin America,5
+54654,Prefeitura de São João da Boa Vista,São João da Boa Vista,Brazil,Latin America,2
+54656,Prefeitura de Vinhedo,Vinhedo,Brazil,Latin America,3
+54658,Prefeitura do Município de Piracicaba,Piracicaba,Brazil,Latin America,1
+54662,Prefeitura do Município de Maringá,Maringá,Brazil,Latin America,4
+54663,Prefeitura do Jaboatão dos Guararapes,Jaboatão dos Guararapes,Brazil,Latin America,1
+54666,Prefeitura Municipal da Estância Turística de Olímpia,Olímpia,Brazil,Latin America,1
+54667,Prefeitura Municipal de Contagem,Contagem,Brazil,Latin America,4
+54668,Prefeitura Municipal de Aparecida de Goiânia,Aparecida de Goiânia,Brazil,Latin America,1
+54670,Prefeitura Municipal de Capivari,Capivari,Brazil,Latin America,2
+54671,Prefeitura Municipal de Cascavel,Cascavel,Brazil,Latin America,1
+54672,Prefeitura Municipal de Araraquara,Araraquara,Brazil,Latin America,1
+54676,Prefeitura Municipal de Ponta Grossa,Ponta Grossa,Brazil,Latin America,1
+54678,Prefeitura Municipal de Porto Feliz,Porto Feliz,Brazil,Latin America,2
+54681,Prefeitura Municipal de Araçatuba,Araçatuba,Brazil,Latin America,5
+54682,Prefeitura Municipal de Petrolina,Petrolina,Brazil,Latin America,4
+54683,Prefeitura Municipal de Franco da Rocha,Franco da Rocha,Brazil,Latin America,2
+54687,Prefeitura Municipal de São José dos Campos,São José dos Campos,Brazil,Latin America,5
+54688,Prefeitura Municipal de São Vicente,São Vicente,Brazil,Latin America,2
+54692,Prefeitura Municipal de Sertãozinho,Sertãozinho,Brazil,Latin America,5
+54693,Prefeitura Municipal de Ribeirão Preto,Ribeirão Preto,Brazil,Latin America,1
+54696,XIV Ayuntamiento de La Paz,La Paz,Mexico,Latin America,2
+54697,Prefeitura Municipal de Cerquilho,Cerquilho,Brazil,Latin America,3
+54699,Prefeitura Municipal de Barueri,Barueri,Brazil,Latin America,2
+54700,Prefeitura Municipal de Sumaré,Sumaré,Brazil,Latin America,4
+54703,Prefeitura Municipal de Mairiporã,Mairiporã,Brazil,Latin America,2
+54706,Prefeitura Municipal de Boa Vista,Boa Vista,Brazil,Latin America,5
+54708,Prefeitura de Uberlândia,Uberlândia,Brazil,Latin America,1
+54709,Prefeitura de Blumenau,Blumenau,Brazil,Latin America,2
+55159,City of Iwanuma,Iwanuma-shi,Japan,East Asia,2
+55161,City of Iida,Iida-shi,Japan,East Asia,2
+55164,City of Toyota,Toyota-shi,Japan,East Asia,1
+55165,City of Ikoma,Ikoma-shi,Japan,East Asia,2
+55166,City of Tsukuba,Tsukuba-shi,Japan,East Asia,2
+55169,City of Miyakojima,Miyakojima-shi,Japan,East Asia,2
+55180,City of Shizuoka,Shizuoka-shi,Japan,East Asia,2
+55181,City of Matsuyama,Matsuyama-shi,Japan,East Asia,2
+55319,Município de Lamego,Lamego,Portugal,Europe,1
+55322,Município de Vila Nova de Famalicão,Vila Nova de Famalicão,Portugal,Europe,1
+55324,Municipality of Guimarães,Guimarães,Portugal,Europe,1
+55324,Município de Guimarães,Guimarães,Portugal,Europe,4
+55325,Municipality of Águeda,Águeda,Portugal,Europe,1
+55325,Município de Águeda,Águeda,Portugal,Europe,4
+55328,Município de Câmara de Lobos,Câmara de Lobos,Portugal,Europe,1
+55331,Município de Ílhavo,Ílhavo,Portugal,Europe,2
+55334,Municipality of Braga,Braga,Portugal,Europe,1
+55334,Município de Braga,Braga,Portugal,Europe,4
+55371,Municipalidad de Vicente López,Vicente López,Argentina,Latin America,4
+55372,Prefeitura Municipal de Canoas,Canoas,Brazil,Latin America,5
+55373,Prefeitura Municipal de Cabreúva,Cabreúva,Brazil,Latin America,3
+55379,Santa Fé Ciudad,nan,Argentina,Latin America,3
+55380,Prefeitura Municipal de Cubatão,Cubatão,Brazil,Latin America,2
+55381,Prefeitura Municipal de Paulínia,nan,Brazil,Latin America,1
+55415,"City of Columbia, SC","Columbia, SC",United States of America,North America,3
+55415,"City of Columbia, SC","Columbia, SC",United States of America,United States of America,1
+55418,City of Huntington Beach,Huntington Beach,United States of America,North America,1
+55419,City of Miramar,Miramar,United States of America,North America,3
+55419,"City of Miramar, FL",Miramar,United States of America,United States of America,1
+55442,Município de Moita,Moita,Portugal,Europe,1
+55466,Milton Keynes Council,Central Milton Keynes,United Kingdom of Great Britain and Northern Ireland,Europe,1
+55615,"City of Winter Park, FL",nan,United States of America,North America,2
+55615,"City of Winter Park, FL",nan,United States of America,United States of America,1
+55616,Los Altos Hills,Los Altos Hills,United States of America,North America,1
+55799,"Arlington, VA",Arlington,United States of America,North America,3
+55799,"Arlington, VA",Arlington,United States of America,United States of America,2
+55800,City of Cambridge,"Cambridge, MA",United States of America,North America,3
+55800,"City of Cambridge, MA","Cambridge, MA",United States of America,United States of America,2
+55801,City of West Palm Beach,West Palm Beach,United States of America,North America,3
+55801,"City of West Palm Beach, FL",West Palm Beach,United States of America,United States of America,2
+56276,New Taipei City Government,New Taipei,"Taiwan, China",East Asia,1
+56276,New Taipei City Government,New Taipei,"Taiwan, Greater China",East Asia,4
+57347,Pingtung County Government,Pingtung County,"Taiwan, China",East Asia,1
+57347,Pingtung County Government,Pingtung County,"Taiwan, Greater China",East Asia,4
+57505,Alcaldía de Panamá,Panamá,Panama,Latin America,3
+57509,Prefeitura Niterói,Niterói,Brazil,Latin America,2
+57509,Prefeitura de Niterói,Niterói,Brazil,Latin America,3
+57616,"City of Lake Forest, IL",Lake Forest,United States of America,North America,3
+57616,"City of Lake Forest, IL",Lake Forest,United States of America,United States of America,2
+57641,Wrexham council,Wrexham,United Kingdom of Great Britain and Northern Ireland,Europe,1
+57771,Garabito,nan,Costa Rica,Latin America,1
+57877,Playa del Carmen,Playa del Carmen,Mexico,Latin America,2
+58310,City of Roanoke,Roanoke,United States of America,North America,3
+58310,"City of Roanoke, VA",Roanoke,United States of America,United States of America,1
+58323,Subotica,Subotica,Serbia,Europe,1
+58346,Plymouth City Council,Plymouth,United Kingdom of Great Britain and Northern Ireland,Europe,2
+58357,City of West Hollywood,West Hollywood,United States of America,North America,3
+58357,"City of West Hollywood, CA",West Hollywood,United States of America,United States of America,1
+58391,Maribyrnong City Council,nan,Australia,Oceania,1
+58391,Maribyrnong City Council,nan,Australia,Southeast Asia and Oceania,1
+58395,Bærum Kommune,Bærum,Norway,Europe,3
+58395,Bærum Municipality,Bærum,Norway,Europe,1
+58413,"City of Carmel, IN",Carmel,United States of America,North America,3
+58424,Gdańsk,Gdańsk,Poland,Europe,2
+58461,Stara Zagora,Stara Zagora,Bulgaria,Europe,1
+58482,Ville de Laval,Laval,Canada,North America,2
+58483,City of Surrey,nan,Canada,North America,1
+58483,"City of Surrey, BC",nan,Canada,Canada,1
+58483,"City of Surrey, BC",nan,Canada,nan,1
+58485,Abington Township,Abington,United States of America,North America,2
+58485,Abington Township,nan,United States of America,North America,1
+58485,"Abington Township, PA",nan,United States of America,United States of America,2
+58488,Sonderborg Kommune,Sonderborg,Denmark,Europe,1
+58489,Hoeje-Taastrup Kommune,Hoeje-Taastrup,Denmark,Europe,3
+58489,Høje-Taastrup Kommune,Hoeje-Taastrup,Denmark,Europe,1
+58489,Høje-Taastrup Municipality,Hoeje-Taastrup,Denmark,Europe,1
+58511,"City of Richmond, CA","Richmond, CA",United States of America,North America,1
+58513,City of Medford,Medford,United States of America,North America,3
+58513,"City of Medford, MA",Medford,United States of America,United States of America,2
+58528,Pristina Municipality,Pristina,Serbia,Europe,1
+58530,"City of Northampton, MA",Northampton,United States of America,North America,3
+58531,"City of Somerville, MA",Somerville,United States of America,North America,3
+58531,"City of Somerville, MA",Somerville,United States of America,United States of America,2
+58543,Byron Shire Council,Byron Shire,Australia,Oceania,2
+58543,Byron Shire Council,Byron Shire,Australia,Southeast Asia and Oceania,3
+58564,Chiayi City Government,nan,"Taiwan, Greater China",East Asia,1
+58569,City of Podgorica,Podgorica,Montenegro,Europe,4
+58569,Podgorica Capital City,Podgorica,Montenegro,Europe,1
+58590,"City of Easton, PA",Easton,United States of America,North America,2
+58590,"City of Easton, PA",Easton,United States of America,United States of America,2
+58591,"City of Greenbelt, MD",nan,United States of America,North America,2
+58591,"City of Greenbelt, MD",nan,United States of America,United States of America,2
+58594,Burgas Municipality,Burgas,Bulgaria,Europe,1
+58595,Municipalidad de Belén,Belén,Costa Rica,Latin America,5
+58597,Municipalidad de La Unión,La Unión,Costa Rica,Latin America,5
+58609,City of Ærøskøbing,Ærøskøbing,Denmark,Europe,3
+58610,Municipality of Hjørring,Hjørring,Denmark,Europe,1
+58613,City of York Council,York,United Kingdom of Great Britain and Northern Ireland,Europe,3
+58621,Town of Blacksburg,Blacksburg,United States of America,North America,3
+58621,"Town of Blacksburg, VA",Blacksburg,United States of America,United States of America,1
+58626,"City of Racine, WI",nan,United States of America,North America,2
+58626,"City of Racine, WI",nan,United States of America,United States of America,1
+58627,"City of Alton, IL",Alton,United States of America,North America,3
+58627,"City of Alton, IL",Alton,United States of America,United States of America,2
+58636,"City of Bellingham, WA",Bellingham,United States of America,North America,1
+58636,"City of Bellingham, WA",Bellingham,United States of America,United States of America,2
+58668,"City of New Bedford, MA",New Bedford,United States of America,North America,3
+58668,"City of New Bedford, MA",New Bedford,United States of America,United States of America,2
+58670,City of Monrovia,Monrovia,Liberia,Africa,2
+58671,Helsingør Kommune,Helsingør,Denmark,Europe,1
+58671,Helsingør Kommune / Elsinore Municipality,Helsingør,Denmark,Europe,3
+58671,Helsingør Municipality,Helsingør,Denmark,Europe,1
+5871,Essex County Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,3
+58783,Commune de Bakata,nan,Burkina Faso,Africa,2
+58795,Blantyre City Council,Blantyre,Malawi,Africa,3
+58796,Odder Kommune,Odder,Denmark,Europe,3
+58797,Hørsholm Kommune,Hørsholm,Denmark,Europe,3
+58865,Jammerbugt Kommune,Jammerbugt,Denmark,Europe,4
+58867,City of Wisconsin Rapids,Wisconsin Rapids,United States of America,North America,1
+58868,Regional Municipality of Durham,Durham,Canada,North America,1
+58868,"Regional Municipality of Durham, ON",Durham,Canada,nan,1
+58871,"City of Salem, MA",Salem,United States of America,North America,3
+58871,"City of Salem, MA",Salem,United States of America,United States of America,2
+59124,"City of Natchez, MS",Natchez,United States of America,North America,3
+59124,"City of Natchez, MS",Natchez,United States of America,United States of America,1
+59151,Akureyrarbær,Akureyri,Iceland,Europe,1
+59151,City of Akureyri,Akureyri,Iceland,Europe,4
+59156,City of Grand-Bassam,Grand-Bassam,Côte d'Ivoire,Africa,1
+59158,Moroni City,Moroni,Comoros,Africa,2
+59160,Ville de Nyon,Nyon,Switzerland,Europe,2
+59160,Ville de Nyon,nan,Switzerland,Europe,1
+59163,City of Tirana,Tirana,Albania,Europe,2
+59163,Municipality of Tirana,Tirana,Albania,Europe,1
+59165,Gladsaxe Kommune,Gladsaxe,Denmark,Europe,4
+59165,Gladsaxe Municipality,Gladsaxe,Denmark,Europe,1
+59166,Municipalidad de Independencia,Independencia,Chile,Latin America,5
+59167,Municipalidad de Providencia,Providencia,Chile,Latin America,5
+59168,Commune de Dioudoubou,Dioudoubou,Senegal,Africa,4
+59180,Middelfart Kommune,Middelfart,Denmark,Europe,4
+59180,Middelfart Municipality,Middelfart,Denmark,Europe,1
+59298,City of Yaoundé 6,Yaoundé 6,Cameroon,Africa,3
+59298,Yaoundé 6,Yaoundé 6,Cameroon,Africa,1
+59531,"City of Santa Barbara, CA",nan,United States of America,North America,1
+59532,"City of Hoboken, NJ",nan,United States of America,United States of America,2
+59534,"City of Upper Arlington, OH",nan,United States of America,United States of America,1
+59535,"Town of Vail, CO",Vail,United States of America,North America,3
+59535,"Town of Vail, CO",Vail,United States of America,United States of America,2
+59536,City of Kitchener,Kitchener,Canada,North America,3
+59536,"City of Kitchener, ON",Kitchener,Canada,Canada,1
+59536,"City of Kitchener, ON",Kitchener,Canada,nan,1
+59537,"City of Denton, TX",Denton,United States of America,North America,3
+59537,"City of Denton, TX",Denton,United States of America,United States of America,2
+59538,City of Mississauga,Mississauga,Canada,North America,3
+59538,"City of Mississauga, ON",Mississauga,Canada,Canada,1
+59538,"City of Mississauga, ON",Mississauga,Canada,nan,1
+59540,"City of Elgin, IL",Elgin,United States of America,North America,1
+59540,"City of Elgin, IL",Elgin,United States of America,United States of America,1
+59545,"City of Charlottesville, VA",Charlottesville,United States of America,North America,3
+59545,"City of Charlottesville, VA",Charlottesville,United States of America,United States of America,2
+59550,"City of Bend, OR",nan,United States of America,North America,1
+59550,"City of Bend, OR",nan,United States of America,United States of America,1
+59552,"City of Davis, CA","Davis, CA",United States of America,North America,2
+59552,"City of Davis, CA","Davis, CA",United States of America,United States of America,1
+59558,"City of Holland, MI",nan,United States of America,North America,1
+59558,"City of Holland, MI",nan,United States of America,United States of America,1
+59562,"City of Urbana, IL",nan,United States of America,North America,2
+59562,"City of Urbana, IL",nan,United States of America,United States of America,1
+59563,"City of Takoma Park, MD",Takoma Park,United States of America,North America,3
+59563,"City of Takoma Park, MD",Takoma Park,United States of America,United States of America,2
+59572,"District of Saanich, BC",Saanich,Canada,Canada,1
+59572,"District of Saanich, BC",Saanich,Canada,North America,3
+59572,"District of Saanich, BC",Saanich,Canada,nan,1
+59580,"Town of Dedham, MA",nan,United States of America,North America,1
+59588,"Town of Chapel Hill, NC",Chapel Hill,United States of America,North America,3
+59588,"Town of Chapel Hill, NC",Chapel Hill,United States of America,United States of America,2
+59595,"City of Brisbane, CA","Brisbane, CA",United States of America,North America,2
+59605,"City of Colton, CA",nan,United States of America,United States of America,1
+59631,"City of San Leandro, CA",San Leandro,United States of America,North America,3
+59633,"City of Santa Cruz, CA","Santa Cruz, CA",United States of America,North America,3
+59633,"City of Santa Cruz, CA","Santa Cruz, CA",United States of America,United States of America,2
+59642,"City of Dublin, CA","Dublin, CA",United States of America,North America,3
+59644,"City of Culver City, CA",Culver City,United States of America,North America,3
+59644,"City of Culver City, CA",Culver City,United States of America,United States of America,2
+59653,"City of Manhattan Beach, CA",Manhattan Beach,United States of America,North America,3
+59653,"City of Manhattan Beach, CA",Manhattan Beach,United States of America,United States of America,2
+59657,"City of Beaverton, OR",nan,United States of America,North America,2
+59657,"City of Beaverton, OR",nan,United States of America,United States of America,2
+59663,"City of New Westminster, BC",nan,Canada,nan,1
+59666,"City of Grande Prairie, AB",nan,Canada,Canada,1
+59666,"City of Grande Prairie, AB",nan,Canada,nan,1
+59667,"City of Port Coquitlam, BC",nan,Canada,Canada,1
+59667,"City of Port Coquitlam, BC",nan,Canada,nan,1
+59669,City of North Vancouver,North Vancouver,Canada,North America,3
+59669,"City of North Vancouver, BC",North Vancouver,Canada,Canada,1
+59669,"City of North Vancouver, BC",North Vancouver,Canada,nan,1
+59678,"City of Evanston, IL",Evanston,United States of America,North America,3
+59678,"City of Evanston, IL",Evanston,United States of America,United States of America,1
+59681,"Town of East Hampton, NY",nan,United States of America,North America,1
+59696,"City of Longmont, CO",nan,United States of America,United States of America,2
+59697,"City of Lake Worth, FL",Lake Worth,United States of America,North America,2
+59703,"City of Menlo Park, CA",nan,United States of America,United States of America,1
+59706,"City of Olympia, WA",nan,United States of America,United States of America,1
+59707,"Town of Princeton, NJ",nan,United States of America,North America,2
+59707,"Town of Princeton, NJ",nan,United States of America,United States of America,2
+59708,"City of Bethlehem, PA",nan,United States of America,United States of America,2
+59956,Banda Aceh City Government,nan,Indonesia,Southeast Asia and Oceania,1
+59958,Tweed Shire Council,nan,Australia,Oceania,2
+59958,Tweed Shire Council,nan,Australia,Southeast Asia and Oceania,1
+59967,Adelaide Hills Council,nan,Australia,Oceania,1
+59967,Adelaide Hills Council,nan,Australia,Southeast Asia and Oceania,1
+59969,City of Mandurah,nan,Australia,Southeast Asia and Oceania,2
+59971,Melton City Council,nan,Australia,Oceania,1
+59971,Melton City Council,nan,Australia,Southeast Asia and Oceania,1
+59985,City of Puerto Princesa,Puerto Princesa,Philippines,Southeast Asia,2
+59985,City of Puerto Princesa,Puerto Princesa,Philippines,Southeast Asia and Oceania,1
+59987,Hutt City Council,Hutt City,New Zealand,Oceania,1
+59987,Hutt City Council,Hutt City,New Zealand,Southeast Asia and Oceania,1
+59996,Batangas City,Batangas,Philippines,Southeast Asia,1
+59996,Batangas City,Batangas,Philippines,Southeast Asia and Oceania,2
+59998,Narayanganj City Corporation,nan,Bangladesh,South Asia,1
+59998,Narayanganj City Corporation,nan,Bangladesh,South and West Asia,1
+60003,Baguio City,nan,Philippines,Southeast Asia,1
+60003,Baguio City,nan,Philippines,Southeast Asia and Oceania,1
+60007,City of Santa Rosa,Santa Rosa,Philippines,Southeast Asia,1
+60007,City of Santa Rosa,Santa Rosa,Philippines,Southeast Asia and Oceania,1
+60009,Bacolod City,nan,Philippines,Southeast Asia,1
+60011,City of San Jose del Monte,nan,Philippines,Southeast Asia,2
+60011,City of San Jose del Monte,nan,Philippines,Southeast Asia and Oceania,1
+60018,City of Zamboanga,nan,Philippines,Southeast Asia,1
+60019,Rajshahi City Corporation,nan,Bangladesh,South Asia,1
+60019,Rajshahi City Corporation,nan,Bangladesh,South and West Asia,1
+60029,City of Cagayan de Oro,Cagayan de Oro,Philippines,Southeast Asia,1
+60029,City of Cagayan de Oro,Cagayan de Oro,Philippines,Southeast Asia and Oceania,2
+60044,Bhopal Municipal Corporation,nan,India,South Asia,1
+60050,Guwahati Municipal Corporation,nan,India,South and West Asia,1
+60053,Indore Municipal Corporation,nan,India,South Asia,1
+60053,Indore Municipal Corporation,nan,India,South and West Asia,1
+60069,Sheffield City Council,Sheffield,United Kingdom of Great Britain and Northern Ireland,Europe,1
+60073,Wolverhampton City Council,Wolverhampton,United Kingdom of Great Britain and Northern Ireland,Europe,4
+60078,City of Lappeenranta,Lappeenranta,Finland,Europe,1
+60092,City of Porvoo,Porvoo,Finland,Europe,1
+60092,Porvoon kaupunki,Porvoo,Finland,Europe,1
+60102,Blackpool Council,Blackpool,United Kingdom of Great Britain and Northern Ireland,Europe,1
+60104,Cambridge City Council,Cambridge,United Kingdom of Great Britain and Northern Ireland,Europe,5
+60105,Kirklees Council,Huddersfield,United Kingdom of Great Britain and Northern Ireland,Europe,3
+60108,Norwich City Council,Norwich,United Kingdom of Great Britain and Northern Ireland,Europe,5
+60110,Municipality of Chişinău,Municipality of Chişinău,Republic of Moldova,Europe,1
+60112,City of Debrecen,Debrecen,Hungary,Europe,1
+60113,Dundee City Council,Dundee,United Kingdom of Great Britain and Northern Ireland,Europe,1
+60114,City of Gdynia,Gdynia,Poland,Europe,3
+60114,Miasto Gdynia,Gdynia,Poland,Europe,1
+60115,Wakefield Council,Wakefield,United Kingdom of Great Britain and Northern Ireland,Europe,2
+60116,Southampton City Council,Southampton,United Kingdom of Great Britain and Northern Ireland,Europe,1
+60117,Winchester City Council,Winchester,United Kingdom of Great Britain and Northern Ireland,Europe,3
+60125,Klaipeda City Municipality,Klaipeda,Lithuania,Europe,2
+60125,Klaipėda City Municipality,Klaipeda,Lithuania,Europe,1
+60125,Klaipėdos miesto savivaldybė,Klaipeda,Lithuania,Europe,1
+60126,Tartu City Council,Tartu,Estonia,Europe,3
+60127,Municipality of Thessaloniki,Thessaloniki,Greece,Europe,2
+60140,City of Nakuru,Nakuru,Kenya,Africa,5
+60142,City of Kisumu,Kisumu,Kenya,Africa,5
+60153,City of Mombasa,Mombasa,Kenya,Africa,1
+60167,Ville de Charleroi,Charleroi,Belgium,Europe,1
+60168,Derry City & Strabane,Derry,United Kingdom of Great Britain and Northern Ireland,Europe,3
+60178,Linköping Municipality,Linköping,Sweden,Europe,1
+60178,Linköpings kommun,Linköping,Sweden,Europe,1
+60185,City of Vantaa,Vantaa,Finland,Europe,1
+60185,Vantaan kaupunki,Vantaa,Finland,Europe,1
+60205,Commune Bizerte,Bizerte,Tunisia,Africa,1
+60206,City of Jelgava,Jelgava,Latvia,Europe,1
+60207,City of Windhoek,Windhoek,Namibia,Africa,1
+60211,Bulawayo City Council,Bulawayo,Zimbabwe,Africa,1
+60213,Šiauliai City Municipality,Šiauliai,Lithuania,Europe,2
+60214,Liepāja City Council,Liepaja,Latvia,Europe,1
+60216,City of Växjö,Växjö,Sweden,Europe,3
+60216,Växjö Municipality,Växjö,Sweden,Europe,1
+60216,Växjö kommun,Växjö,Sweden,Europe,1
+60218,Karlskrona Municipality,Karlskrona,Sweden,Europe,1
+60218,Municipality of Karlskrona,Karlskrona,Sweden,Europe,2
+60223,Panevėžio miesto savivaldybė,Panevežys,Lithuania,Europe,1
+60223,Panevėžys City Municipality,Panevežys,Lithuania,Europe,2
+60229,Arendal Municipality,Arendal,Norway,Europe,1
+60229,Arendal kommune,Arendal,Norway,Europe,1
+60229,Municipality of Arendal,Arendal,Norway,Europe,3
+60233,Pärnu City Government,Pärnu,Estonia,Europe,3
+60236,Municipality of Trelleborg,Trelleborg,Sweden,Europe,3
+60236,Trelleborg Municipality,Trelleborg,Sweden,Europe,1
+60236,Trelleborgs kommun,Trelleborg,Sweden,Europe,1
+60238,Söderhamns kommun,Söderhamn,Sweden,Europe,1
+60254,Prefeitura de Bonito,Bonito,Brazil,Latin America,1
+60258,Prefeitura de Brusque,Brusque,Brazil,Latin America,3
+60264,Prefeitura de Botucatu,Botucatu,Brazil,Latin America,3
+60267,Prefeitura de Guarujá,Guarujá,Brazil,Latin America,3
+60268,Prefeitura de Brumadinho,Brumadinho,Brazil,Latin America,5
+60271,Prefeitura de Bertioga,Bertioga,Brazil,Latin America,3
+60272,Prefeitura de Campina Grande,Campina Grande,Brazil,Latin America,4
+60273,Prefeitura de Extrema,Extrema,Brazil,Latin America,5
+60274,Prefeitura de Cruzeiro do Sul,Cruzeiro do Sul,Brazil,Latin America,5
+60276,Prefeitura de Assis,nan,Brazil,Latin America,1
+60277,Prefeitura de Ilhabela,nan,Brazil,Latin America,1
+60278,Prefeitura de Fernandópolis,Fernandópolis,Brazil,Latin America,3
+60279,Prefeitura de Campos de Goytacazes,Campos de Goytacazes,Brazil,Latin America,3
+60281,Prefeitura de Caucaia,nan,Brazil,Latin America,1
+60284,Prefeitura de Angra dos Reis,Angra dos Reis,Brazil,Latin America,3
+60287,Prefeitura de Feira de Santana,Feira de Santana,Brazil,Latin America,1
+60290,Prefeitura de Brotas,Brotas,Brazil,Latin America,1
+60292,Prefeitura de Jahu,Jahu,Brazil,Latin America,2
+60295,Prefeitura de Jaguariúna,nan,Brazil,Latin America,2
+60307,Prefeitura de Nova Friburgo,nan,Brazil,Latin America,2
+60315,Prefeitura de Parauapebas,nan,Brazil,Latin America,1
+60318,Prefeitura de Porto Velho,Porto Velho,Brazil,Latin America,5
+60319,Prefeitura de Pato Branco,nan,Brazil,Latin America,1
+60320,Prefeitura de Presidente Prudente,Presidente Prudente,Brazil,Latin America,5
+60328,Prefeitura de Pirenópolis,Pirenópolis,Brazil,Latin America,2
+60329,Prefeitura de Pindamonhangaba,nan,Brazil,Latin America,1
+60332,Prefeitura de São Carlos,nan,Brazil,Latin America,2
+60334,Prefeitura de Santarém,nan,Brazil,Latin America,1
+60337,Prefeitura de Quissamã,nan,Brazil,Latin America,3
+60339,Prefeitura de Anapolis,nan,Brazil,Latin America,1
+60340,Prefeitura de Rio Verde,Rio Verde,Brazil,Latin America,2
+60341,Prefeitura de Rio Grande,nan,Brazil,Latin America,1
+60346,Prefeitura de Santa Barbara d'Oeste,Santa Barbara d'Oeste,Brazil,Latin America,1
+60347,Prefeitura da Estância Climática de São Bento do Sapucaí,São Bento do Sapucaí,Brazil,Latin America,2
+60348,Prefeitura de São José dos Pinhais,nan,Brazil,Latin America,1
+60349,Prefeitura de São Leopoldo,São Leopoldo,Brazil,Latin America,5
+60351,Prefeitura de Sobral,nan,Brazil,Latin America,2
+60354,Prefeitura de São Sebastião,São Sebastião,Brazil,Latin America,1
+60356,Prefeitura de Tupã,Tupã,Brazil,Latin America,4
+60361,Prefeitura de Tangará da Serra,Tangará da Serra,Brazil,Latin America,5
+60364,Alcaldía de Florencia,nan,Colombia,Latin America,1
+60367,Alcaldía de Neiva,nan,Colombia,Latin America,1
+60369,Alcaldía Municipal de Armenia,nan,Colombia,Latin America,3
+60370,Alcaldía de Cúcuta,nan,Colombia,Latin America,1
+60371,Alcaldía de Leticia,Leticia,Colombia,Latin America,2
+60373,Alcaldía de Ríohacha,Ríohacha,Colombia,Latin America,1
+60374,Alcaldía de Ibagué,Ibagué,Colombia,Latin America,4
+60375,Gobiernación del Archipiélago de San Andrés,Archipiélago de San Andrés,Colombia,Latin America,2
+60379,Alcaldía de Tunja,Tunja,Colombia,Latin America,3
+60381,Alcaldía Distrital de Santa Marta,Santa Marta,Colombia,Latin America,5
+60384,Alcaldía de Yopal,nan,Colombia,Latin America,3
+60385,Alcaldía de Villavicencio,nan,Colombia,Latin America,4
+60387,Alcaldía de Sincelejo,Sincelejo,Colombia,Latin America,2
+60387,Alcaldíade Sincelejo,Sincelejo,Colombia,Latin America,2
+60388,Municipalidad Provincial de Chiclayo,nan,Peru,Latin America,3
+60391,Municipalidad de San Borja,San Borja,Peru,Latin America,5
+60392,Municipalidad de San Isidro (Lima),San Isidro (Lima),Peru,Latin America,5
+60393,Municipalidad de Santiago,Santiago,Chile,Latin America,5
+60394,Gobierno Autónomo Municipal de Tarija,Tarija,Bolivia (Plurinational State of),Latin America,5
+60398,Municipalidad de Copiapó,nan,Chile,Latin America,1
+60399,Municipalidad de Miraflores,Miraflores,Peru,Latin America,5
+60400,Municipalidad de Temuco,nan,Chile,Latin America,4
+60407,Municipalidad de Colina,Colina,Chile,Latin America,1
+60408,Municipalidad de Talca,nan,Chile,Latin America,3
+60409,Municipalidad Provincial de Callao,nan,Peru,Latin America,3
+60410,Municipalidad de Peñalolén,Peñalolén,Chile,Latin America,5
+60413,Municipalidad de La Serena,La Serena,Chile,Latin America,4
+60414,Municipalidad Venado Tuerto,nan,Argentina,Latin America,3
+60416,Municipalidad de San Isidro (Argentina),San Isidro (Argentina),Argentina,Latin America,2
+60417,Municipalidad de San Carlos de Bariloche,nan,Argentina,Latin America,2
+60419,Municipalidad de Rio Grande,Rio Grande,Argentina,Latin America,3
+60423,Municipalidad de la Ciudad de Neuquén,nan,Argentina,Latin America,2
+60433,City of Hvidovre,Hvidovre,Denmark,Europe,3
+60433,Hvidovre Kommune,Hvidovre,Denmark,Europe,1
+60433,Hvidovre Municipality,Hvidovre,Denmark,Europe,1
+60546,Nanjing Municipal People's Government,Nanjing,China,East Asia,5
+60577,Frederikshavn Kommune,Frederikshavn,Denmark,Europe,2
+60588,City of Alba-Iulia,Alba-Iulia,Romania,Europe,3
+60588,Municipiul Alba Iulia,Alba-Iulia,Romania,Europe,1
+60599,"Town of Bridgewater, NS",Bridgewater,Canada,Canada,1
+60599,"Town of Bridgewater, NS",Bridgewater,Canada,North America,3
+60599,"Town of Bridgewater, NS",Bridgewater,Canada,nan,1
+60600,"Town of Gibsons, BC",nan,Canada,Canada,1
+60602,"Town of Ajax, ON","Ajax, ON",Canada,Canada,1
+60602,"Town of Ajax, ON","Ajax, ON",Canada,North America,1
+60603,"City of Prince George, BC",Prince George,Canada,Canada,1
+60603,"City of Prince George, BC",Prince George,Canada,North America,3
+60603,"City of Prince George, BC",Prince George,Canada,nan,1
+60621,Lilongwe City Council,Lilongwe,Malawi,Africa,3
+60633,La mairie de Bujumbura,Bujumbura,Burundi,Africa,5
+60638,Walvis Bay Municipality,Walvis Bay,Namibia,Africa,5
+60640,Mbabane City Council,Mbabane,Eswatini,Africa,2
+60642,Rundu Town Council,Rundu,Namibia,Africa,1
+60652,Morogoro Municipal Council,Morogoro,United Republic of Tanzania,Africa,1
+60656,"City of Piedmont, CA",Piedmont,United States of America,North America,3
+60656,"City of Piedmont, CA",Piedmont,United States of America,United States of America,2
+60679,"Town of Surfside, FL",Surfside,United States of America,North America,1
+60898,Ayuntamiento de Naucalpan de Juárez,Naucalpan de Juárez,Mexico,Latin America,3
+60905,Municipalidad de Maipú,nan,Chile,Latin America,2
+60906,Municipalidad de Vitacura,nan,Chile,Latin America,4
+61427,Municipality of Nacala,Nacala,Mozambique,Africa,3
+61467,Dipolog City,nan,Philippines,Southeast Asia,2
+61467,Dipolog City,nan,Philippines,Southeast Asia and Oceania,1
+61753,Yilan County Government,Yilan County,"Taiwan, Greater China",East Asia,2
+61790,"City of Emeryville, CA",Emeryville,United States of America,North America,3
+61790,"City of Emeryville, CA",Emeryville,United States of America,United States of America,2
+61876,Mazabuka Municipal Council,Mazabuka,Zambia,Africa,2
+62171,Metropolitan Municipality of Rouen,ROUEN Cedex,France,Europe,1
+62171,Métropole de Rouen,ROUEN Cedex,France,Europe,1
+62180,Communauté urbaine du Grand Nancy,Nancy,France,Europe,3
+62407,Blacktown City Council,nan,Australia,Oceania,1
+62791,City of Botosani,Botosani,Romania,Europe,3
+62814,Municipalidad de Pica,Pica,Chile,Latin America,1
+62817,"City of Ithaca, NY",nan,United States of America,North America,1
+62817,"City of Ithaca, NY",nan,United States of America,United States of America,1
+62855,Egedal Kommune,Egedal,Denmark,Europe,1
+62855,Egedal Municipality,Egedal,Denmark,Europe,3
+62864,"City of Lancaster, PA","Lancaster, PA",United States of America,North America,2
+62868,Eskişehir Metropolitan Municipality,Eskişehir,Turkey,Europe,5
+63430,Northern Beaches Council,nan,Australia,Oceania,2
+63542,Lejre Kommune,Lejre,Denmark,Europe,1
+63543,Fredensborg Kommune,Fredensborg,Denmark,Europe,4
+63562,"City of South Bend, IN",South Bend,United States of America,North America,3
+63562,"City of South Bend, IN",South Bend,United States of America,United States of America,2
+63601,"Township of Maplewood, NJ",Maplewood,United States of America,North America,3
+63601,"Township of Maplewood, NJ",Maplewood,United States of America,United States of America,2
+63608,City of Melville,nan,Australia,Oceania,1
+63615,Hillerød Kommune,Hillerød,Denmark,Europe,3
+63616,Abasan Al-Kabira Municipality,Abasan Al-Kabira,State of Palestine,Middle East,5
+63762,Metropolitan Washington Council of Governments (COG),nan,United States of America,North America,1
+63836,Vadodara Municipal Corporation,nan,India,South Asia,1
+63836,Vadodara Municipal Corporation,nan,India,South and West Asia,1
+63862,"City of Ashland, OR",nan,United States of America,North America,2
+63862,"City of Ashland, OR",nan,United States of America,United States of America,1
+63919,"City of Saratoga Springs, NY",Saratoga Springs,United States of America,North America,3
+63941,"Broward County, FL",Broward,United States of America,North America,3
+63941,"Broward County, FL",Broward,United States of America,United States of America,2
+63999,"City of Miami Beach, FL",Miami Beach,United States of America,North America,3
+63999,"City of Miami Beach, FL",Miami Beach,United States of America,United States of America,2
+64014,City of Cupertino,Cupertino,United States of America,North America,2
+64014,"City of Cupertino, CA",Cupertino,United States of America,United States of America,2
+68250,City of Canada Bay,nan,Australia,Oceania,1
+68265,Georges River Council,nan,Australia,Oceania,1
+68267,Sutherland Shire Council,nan,Australia,Oceania,1
+68268,Brighton Council,nan,Australia,Oceania,1
+68290,Wyndham City Council,nan,Australia,Oceania,1
+68290,Wyndham City Council,nan,Australia,Southeast Asia and Oceania,2
+68296,Hobsons Bay City Council,nan,Australia,Southeast Asia and Oceania,2
+68337,Bekasi City Government,nan,Indonesia,Southeast Asia,1
+68337,Bekasi City Government,nan,Indonesia,Southeast Asia and Oceania,1
+68371,Municipio Distrital del Rimac,Rimac,Peru,Latin America,1
+68373,Prefeitura de Pedreira,nan,Brazil,Latin America,4
+68375,Prefeitura de Abaetetuba,nan,Brazil,Latin America,2
+68378,Municipalidad de Santiago de Surco,Santiago de Surco,Peru,Latin America,5
+68383,Prefeitura de Itatiba,Itatiba,Brazil,Latin America,4
+68384,Prefeitura de Engenheiro Coelho,nan,Brazil,Latin America,2
+68385,Municipio La Chorrera,Chorrera,Panama,Latin America,3
+68385,Municipio de Chorrera,Chorrera,Panama,Latin America,2
+68388,Prefeitura de Morungaba,Morungaba,Brazil,Latin America,3
+69822,Kristianstad,nan,Sweden,Europe,1
+69822,Kristianstads kommun,nan,Sweden,Europe,1
+69823,Visby,Visby,Sweden,Europe,2
+69824,Västervik,Västervik Municipality,Sweden,Europe,2
+69824,Västervik Municipality,Västervik Municipality,Sweden,Europe,1
+69824,Västerviks kommun,Västervik Municipality,Sweden,Europe,1
+69834,Municipalidad de General Alvear (Mendoza),"General Alvear, Buenos Aires",Argentina,Latin America,4
+69840,Município de Itacoatiara,nan,Brazil,Latin America,2
+69848,Municipio de Loja,Loja,Ecuador,Latin America,5
+69849,Santa Cruz de Galápagos,Santa Cruz de Galápagos,Ecuador,Latin America,1
+69850,Municipalidad de Comas,Comas,Peru,Latin America,5
+69967,Alcaldia de Tulua,Tulua,Colombia,Latin America,1
+69968,Alcaldia de Rionegro,Rionegro,Colombia,Latin America,4
+69973,Alcaldia de Barrancabermeja,Barrancabermeja,Colombia,Latin America,2
+69985,Sillamäe,Sillamäe,Estonia,Europe,2
+69995,City of Kemi,Kemi,Finland,Europe,1
+69995,Kemi,Kemi,Finland,Europe,3
+69995,Kemin kaupunki,Kemi,Finland,Europe,1
+69999,City of Greifswald,Greifswald,Germany,Europe,1
+69999,Greifswald,Greifswald,Germany,Europe,3
+70005,Tauragė,Taurage,Lithuania,Europe,3
+70005,Tauragė District Municipality,Taurage,Lithuania,Europe,1
+70005,Tauragės rajono savivaldybė,Taurage,Lithuania,Europe,1
+70017,Alcaldia de Palmira,Palmira,Colombia,Latin America,2
+70247,Hsinchu City Government,Hsinchu,"Taiwan, China",East Asia,1
+70261,Alcaldia de Floridablanca,Floridablanca,Colombia,Latin America,5
+71557,Quelimane Municipal Council,Quelimane,Mozambique,Africa,3
+72887,State of Connecticut,nan,United States of America,United States of America,1
+72888,State of Washington,nan,United States of America,United States of America,1
+72892,State of New York,nan,United States of America,United States of America,1
+72894,State of Oregon,nan,United States of America,United States of America,1
+72895,Wales,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+72901,State of California,nan,United States of America,United States of America,1
+72902,Scotland,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+72920,Autonomous Community of Galicia,nan,Spain,Europe,1
+72923,Autonomous Community of Andalusia,nan,Spain,Europe,1
+72924,Autonomous Community of Navarre,nan,Spain,Europe,1
+72926,Autonomous Community of the Basque Country,nan,Spain,Europe,1
+72927,Autonomous Community of Catalonia,nan,Spain,Europe,1
+72928,Autonomous Community of Cantabria,nan,Spain,Europe,1
+72932,Western Cape,nan,South Africa,Africa,1
+72940,Gossas,nan,Senegal,Africa,1
+72953,Autonomous Region of the Azores,nan,Portugal,Europe,1
+72958,Autonomous Region of Madeira,nan,Portugal,Europe,1
+72994,Cross River State,nan,Nigeria,Africa,1
+73010,Baja California,nan,Mexico,Latin America,1
+73013,Campeche,nan,Mexico,Latin America,1
+73014,Quintana Roo,nan,Mexico,Latin America,1
+73018,Aguascalientes,nan,Mexico,Latin America,1
+73019,Yucatan,nan,Mexico,Latin America,1
+73022,Estado de Mexico,nan,Mexico,Latin America,1
+73023,Jalisco,nan,Mexico,Latin America,1
+73025,Tabasco,nan,Mexico,Latin America,1
+73027,Chiapas,nan,Mexico,Latin America,1
+73028,Sud-Comoe,nan,Côte d'Ivoire,Africa,1
+73032,Hidalgo,nan,Mexico,Latin America,1
+73047,Piedmont Region,nan,Italy,Europe,1
+73048,Lombardy Region,nan,Italy,Europe,1
+73051,East Kalimantan,nan,Indonesia,Southeast Asia,1
+73064,West Kalimantan,nan,Indonesia,Southeast Asia,1
+73065,State of Baden-Württemberg,nan,Germany,Europe,1
+73087,Occitania Region,nan,France,Europe,1
+73088,State of Hesse,nan,Germany,Europe,1
+73089,Greater East Region,nan,France,Europe,1
+73108,Region of North Karelia,nan,Finland,Europe,1
+73149,Quebec,nan,Canada,Canada,1
+73157,Prince Edward Island,nan,Canada,Canada,1
+73170,Para,nan,Brazil,Latin America,1
+73172,Acre,nan,Brazil,Latin America,1
+73175,Amazonas (Brazil),nan,Brazil,Latin America,1
+73176,Ceara,nan,Brazil,Latin America,1
+73177,Mato Grosso,nan,Brazil,Latin America,1
+73178,Amapa,nan,Brazil,Latin America,1
+73179,Rondonia,nan,Brazil,Latin America,1
+73180,Pernambuco,nan,Brazil,Latin America,1
+73182,Sao Paulo State,nan,Brazil,Latin America,1
+73183,Tocantins,nan,Brazil,Latin America,1
+73184,Parana,nan,Brazil,Latin America,1
+73185,Rio de Janeiro State,nan,Brazil,Latin America,1
+73186,Minas Gerais,nan,Brazil,Latin America,1
+73190,Rio Grande do Sul,nan,Brazil,Latin America,1
+73194,State of Upper Austria,nan,Austria,Europe,1
+73198,South Australia,nan,Australia,Oceania,1
+73199,State of Lower Austria,nan,Austria,Europe,1
+73229,Masvingo,Masvingo,Zimbabwe,Africa,1
+73240,Tuzla Municipality,Tuzla,Turkey,Europe,2
+73247,Prefeitura de Bayeux,Bayeux,Brazil,Latin America,1
+73252,Pemba Municipality,Pemba,Mozambique,Africa,4
+73282,Municipality of Ilha de Mozambique,Ilha,Mozambique,Africa,1
+73293,"City of LaGrange, MO",LaGrange,United States of America,North America,2
+73295,"City of La Crosse, WI",La Crosse,United States of America,North America,3
+73295,"City of La Crosse, WI",La Crosse,United States of America,United States of America,2
+73301,"City of Gretna, LA",Gretna,United States of America,North America,3
+73301,"City of Gretna, LA",Gretna,United States of America,United States of America,2
+73302,"City of Port Allen, LA",Port Allen,United States of America,North America,2
+73365,Town of Ithaca,nan,United States of America,North America,1
+73413,Commune de Cocody,Abidjan,Côte d'Ivoire,Africa,1
+73413,Commune de Cocody,Cocody,Côte d'Ivoire,Africa,4
+73530,"Town of Lexington, MA","Lexington, MA",United States of America,North America,3
+73530,"Town of Lexington, MA","Lexington, MA",United States of America,United States of America,2
+73635,Metepec,nan,Mexico,Latin America,1
+73637,Steve Tshwete,nan,South Africa,Africa,4
+73645,KwaDukuza,nan,South Africa,Africa,4
+73648,Arias,nan,Argentina,Latin America,1
+73650,Armstrong,nan,Argentina,Latin America,2
+73650,Municipalidad de Armstrong,nan,Argentina,Latin America,1
+73652,Caseros,nan,Argentina,Latin America,2
+73663,Correa,nan,Argentina,Latin America,2
+73665,Villa Pehuenia,nan,Argentina,Latin America,1
+73666,Cuyahoga County,nan,United States of America,North America,2
+73666,"Cuyahoga County, OH",nan,United States of America,United States of America,2
+73667,San Rafael de Heredia,nan,Costa Rica,Latin America,3
+73668,Malabrigo,nan,Argentina,Latin America,2
+73669,San Luis Obispo,nan,United States of America,North America,1
+73669,"San Luis Obispo, CA",nan,United States of America,United States of America,1
+73671,Godoy Cruz,nan,Argentina,Latin America,3
+73676,Umhlathuze,nan,South Africa,Africa,3
+73678,Chañar Ladeado,nan,Argentina,Latin America,1
+73679,Cruz Alta,nan,Argentina,Latin America,1
+73680,Carcarana,nan,Argentina,Latin America,2
+73684,Carlos Tejedor,nan,Argentina,Latin America,2
+73686,Los Molles,nan,Argentina,Latin America,1
+73687,Sabaneta,nan,Colombia,Latin America,1
+73689,"Halton Hills, ON",nan,Canada,Canada,1
+73690,Villa General Belgrano,nan,Argentina,Latin America,1
+73692,Mount Barker District Council,nan,Australia,Oceania,2
+73692,Mount Barker District Council,nan,Australia,Southeast Asia and Oceania,1
+73693,City of La Rioja,nan,Argentina,Latin America,2
+73694,Chacabuco,nan,Argentina,Latin America,3
+73695,Uranga,nan,Argentina,Latin America,3
+73698,City of Joondalup,nan,Australia,Oceania,1
+73700,Mariá Grande,nan,Argentina,Latin America,1
+73701,San Carlos Sud,nan,Argentina,Latin America,3
+73703,City of Port Phillip,nan,Australia,Southeast Asia and Oceania,1
+73705,Santo Tomé,nan,Argentina,Latin America,1
+73706,City of Alameda,Alameda,United States of America,North America,3
+73706,"City of Alameda, CA",Alameda,United States of America,United States of America,1
+73707,Totoras,nan,Argentina,Latin America,1
+73709,Los Surgentes,nan,Argentina,Latin America,1
+73712,Camilo Aldao,nan,Argentina,Latin America,3
+73713,San Miguel,nan,Argentina,Latin America,2
+73715,Cosquín,nan,Argentina,Latin America,1
+73722,Mornington Peninsula Shire,nan,Australia,Oceania,1
+73722,Mornington Peninsula Shire,nan,Australia,Southeast Asia and Oceania,1
+73723,"San Rafael, CA",nan,United States of America,United States of America,1
+73724,Arteaga,nan,Argentina,Latin America,3
+73725,Guaminí,nan,Argentina,Latin America,3
+73726,Itagüí,nan,Colombia,Latin America,3
+73728,"North Miami, FL",nan,United States of America,United States of America,1
+73732,Monte Buey,nan,Argentina,Latin America,2
+73734,Envigado,nan,Colombia,Latin America,2
+73736,Tafi Viejo,nan,Argentina,Latin America,1
+73738,Khon Kaen City,nan,Thailand,Southeast Asia and Oceania,1
+73746,Probolinggo,nan,Indonesia,Southeast Asia,2
+73746,Probolinggo,nan,Indonesia,Southeast Asia and Oceania,1
+73749,Nagpur,nan,India,South Asia,1
+73749,Nagpur,nan,India,South and West Asia,2
+73750,Tarakan City,nan,Indonesia,Southeast Asia,2
+73750,Tarakan City,nan,Indonesia,Southeast Asia and Oceania,2
+73752,Bontang City,nan,Indonesia,Southeast Asia,2
+73752,Bontang City,nan,Indonesia,Southeast Asia and Oceania,1
+73754,Panaji,nan,India,South Asia,1
+73754,Panaji,nan,India,South and West Asia,2
+73755,Legazpi City,nan,Philippines,Southeast Asia,1
+73757,Sukabumi City,nan,Indonesia,Southeast Asia,2
+73758,Mataram City,nan,Indonesia,Southeast Asia,2
+73759,Jambi City,nan,Indonesia,Southeast Asia,2
+73759,Jambi City,nan,Indonesia,Southeast Asia and Oceania,2
+73762,Malang City,nan,Indonesia,Southeast Asia,1
+73762,Malang City,nan,Indonesia,Southeast Asia and Oceania,1
+73763,San Carlos City,nan,Philippines,Southeast Asia,2
+73763,San Carlos City,nan,Philippines,Southeast Asia and Oceania,1
+73765,Tuguegarao City,nan,Philippines,Southeast Asia and Oceania,1
+73777,Muang Phichit,nan,Thailand,Southeast Asia,1
+73781,Singra,nan,Bangladesh,South Asia,1
+73781,Singra,nan,Bangladesh,South and West Asia,1
+73783,Patna,nan,India,South Asia,1
+73787,Tapalqué,nan,Argentina,Latin America,1
+73788,Salliqueló,nan,Argentina,Latin America,1
+73789,Rafaela,nan,Argentina,Latin America,1
+73793,La Estrella,nan,Colombia,Latin America,1
+73795,Girardota,nan,Colombia,Latin America,2
+73796,Copacabana,nan,Colombia,Latin America,1
+73800,Gobernador Maciá,nan,Argentina,Latin America,1
+73801,Juana Koslay,nan,Argentina,Latin America,1
+73802,Crespo,nan,Argentina,Latin America,3
+73803,Herrera,nan,Argentina,Latin America,1
+73806,Llambi Campbell,nan,Argentina,Latin America,1
+73810,"Miami-Dade, FL",nan,United States of America,United States of America,1
+73821,Municipality of Gabriel Monteiro,nan,Brazil,Latin America,1
+73879,Roskilde,Roskilde,Denmark,Europe,3
+73879,Roskilde Kommune,Roskilde,Denmark,Europe,1
+73879,Roskilde Municipality,Roskilde,Denmark,Europe,1
+73892,Holbæk Municipality,nan,Denmark,Europe,1
+74231,Chefchaouen,nan,Morocco,Africa,1
+74309,Nakhon Sawan,nan,Thailand,East Asia,1
+74326,Hachioji,nan,Japan,East Asia,2
+74338,Yala City Municipality,nan,Thailand,Southeast Asia,1
+74358,Kagoshima,nan,Japan,East Asia,2
+74365,Utsunomiya,nan,Japan,East Asia,2
+74369,Funabashi,nan,Japan,East Asia,2
+74371,Himeji,nan,Japan,East Asia,2
+74375,Itabashi,nan,Japan,East Asia,2
+74386,Gangtok,nan,India,South and West Asia,2
+74401,"City of Encinitas, CA",Encinitas,United States of America,North America,3
+74401,"City of Encinitas, CA",Encinitas,United States of America,United States of America,1
+74414,Boulder County,Boulder County,United States of America,North America,3
+74414,"Boulder County, CO",Boulder County,United States of America,United States of America,2
+74418,"Town of Breckenridge, CO",Breckenridge,United States of America,North America,3
+74418,"Town of Breckenridge, CO",Breckenridge,United States of America,United States of America,2
+74423,"City of Key West, FL",Key West,United States of America,North America,3
+74427,City of Sarasota,Sarasota,United States of America,North America,2
+74428,"City of South Miami, FL",South Miami,United States of America,North America,2
+74440,City of Davenport,Davenport,United States of America,North America,1
+74443,"City of Clinton, IA",Clinton,United States of America,North America,1
+74453,"City of Highland Park, IL",nan,United States of America,North America,2
+74453,"City of Highland Park, IL",nan,United States of America,United States of America,2
+74462,"Village of Oak Park, IL",nan,United States of America,United States of America,1
+74463,"Village of Park Forest, IL",nan,United States of America,North America,1
+74463,"Village of Park Forest, IL",nan,United States of America,United States of America,2
+74466,"Village of South Barrington, IL",South Barrington,United States of America,North America,3
+74466,"Village of South Barrington, IL",South Barrington,United States of America,United States of America,1
+74481,"Town of Acton, MA",nan,United States of America,United States of America,1
+74488,"City of Beverly, MA",nan,United States of America,North America,2
+74488,"City of Beverly, MA",nan,United States of America,United States of America,2
+74495,"City of East Lansing, MI",East Lansing,United States of America,North America,2
+74502,"City of Eden Prairie, MN",nan,United States of America,United States of America,1
+74504,"City of Ramsey, MN",Ramsey,United States of America,North America,1
+74508,"City of Winona, MN",Winona,United States of America,North America,3
+74508,"City of Winona, MN",Winona,United States of America,United States of America,2
+74525,"City of Missoula, MT",Missoula,United States of America,North America,2
+74531,Santa Fe County,Santa Fe County,United States of America,North America,3
+74531,"Santa Fe County, NM",Santa Fe County,United States of America,United States of America,2
+74534,"Erie County, NY",nan,United States of America,North America,1
+74539,"City of Oberlin, OH",nan,United States of America,United States of America,2
+74540,"Village of Hastings-on-Hudson, NY",nan,United States of America,United States of America,1
+74546,"City of Milwaukie, OR",nan,United States of America,North America,1
+74547,"City of Mosier, OR",nan,United States of America,United States of America,2
+74558,"Summit County, UT",nan,United States of America,North America,2
+74558,"Summit County, UT",nan,United States of America,United States of America,1
+74560,"City of Moab, UT",Moab,United States of America,North America,2
+74560,"City of Moab, UT",Moab,United States of America,United States of America,1
+74563,"Town of Guilford, VT",nan,United States of America,North America,2
+74563,"Town of Guilford, VT",nan,United States of America,United States of America,2
+74568,"City of Shoreline, WA",Shoreline,United States of America,United States of America,1
+74568,"City of Shoreline, WA",nan,United States of America,North America,1
+74568,"City of Shoreline, WA",nan,United States of America,United States of America,1
+74569,"King County, WA",King County,United States of America,North America,1
+74573,"Snoqualmie, WA",Snoqualmie,United States of America,North America,2
+74573,"Snoqualmie, WA",Snoqualmie,United States of America,United States of America,1
+74575,Dane County,nan,United States of America,North America,2
+74575,"Dane County, WI",nan,United States of America,United States of America,2
+74594,City of Boynton Beach,Boynton Beach,United States of America,North America,3
+74594,"City of Boynton Beach, FL",Boynton Beach,United States of America,United States of America,2
+74607,Gemeente Alkmaar,nan,Netherlands,Europe,1
+74631,Lubumbashi,Lubumbashi,Democratic Republic of the Congo,Africa,4
+74634,Bukavu,nan,Congo,Africa,1
+74643,Dijon métropole,nan,France,Europe,1
+74670,Antalya Metropolitan Municipality,nan,Turkey,Europe,2
+74671,Kadıköy,nan,Turkey,Europe,3
+74672,Bursa Nilüfer Municipality,nan,Turkey,Europe,3
+74673,İzmir Metropolitan Municipality,nan,Turkey,Europe,3
+74677,City of Cluj-Napoca,nan,Romania,Europe,1
+74678,City of Galati,nan,Romania,Europe,1
+74680,City of Iasi,Iasi,Romania,Europe,3
+74690,Municipality of L'Hospitalet de Llobregat,nan,Spain,Europe,1
+74695,Sandnes kommune,nan,Norway,Europe,2
+74698,Beira,nan,Mozambique,Africa,1
+74723,Lesser Poland Voivodeship,nan,Poland,Europe,1
+74745,Nyandarua County,nan,Kenya,Africa,1
+74768,Siaya County,nan,Kenya,Africa,1
+74771,Kisii County,nan,Kenya,Africa,1
+8242,City of Helsinki,Helsinki,Finland,Europe,3
+8242,Helsingin kaupunki,Helsinki,Finland,Europe,1
+826094,Ayuntamiento de Atenguillo,nan,Mexico,Latin America,1
+826100,Ayuntamiento de La Barca,La Barca,Mexico,Latin America,1
+826103,Ayuntamiento de Casimiro Castillo,Casimiro Castillo,Mexico,Latin America,3
+826113,Ayuntamiento de Chiquilistlán,nan,Mexico,Latin America,1
+826114,Ayuntamiento de Degollado,Degollado,Mexico,Latin America,1
+826126,Ayuntamiento de Ixtlahuacán del Río,Ixtlahuacán del Río,Mexico,Latin America,1
+826129,Ayuntamiento de Jesús María,nan,Mexico,Latin America,2
+826135,Ayuntamiento de El Limón,nan,Mexico,Latin America,1
+826148,Ayuntamiento de Puerto Vallarta,nan,Mexico,Latin America,1
+826167,Ayuntamiento de Tapalpa,nan,Mexico,Latin America,1
+826178,Ayuntamiento de Tlajomulco de Zúñiga,nan,Mexico,Latin America,1
+826182,Ayuntamiento de Tonalá,nan,Mexico,Latin America,3
+826188,Ayuntamiento de Tuxcueca,Tuxcueca,Mexico,Latin America,1
+826199,Ayuntamiento de Yahualica de González Gallo,nan,Mexico,Latin America,1
+826201,Ayuntamiento de Zapopan,nan,Mexico,Latin America,3
+826207,Junta Intermunicipal de Medio Ambiente Region Valles (JIMAV),JIMAV,Mexico,Latin America,5
+826208,Junta Intermunicipal de Medio Ambiente de Sierra Occidental y Costa (JISOC),JISOC,Mexico,Latin America,5
+826209,Aipromades Lago de Chapala,Chapala,Mexico,Latin America,5
+826210,Junta Intermunicipal de Medio Ambiente de la Costa Sur (JICOSUR),JICOSUR,Mexico,Latin America,5
+826211,Junta Intermunicipal de Medio Ambiente Altos Sur (JIAS),nan,Mexico,Latin America,3
+826212,Junta intermunicipal para la gestión integral de la cuenca del Río Coahuayana (JIRCO),nan,Mexico,Latin America,4
+826217,Prefeitura de Francisco Morato,nan,Brazil,Latin America,1
+826226,Prefeitura de Diamantina,nan,Brazil,Latin America,1
+826236,Prefeitura de Tremembé,Tremembé,Brazil,Latin America,3
+826237,Alcaldia de Madrid,Madrid (Colombia),Colombia,Latin America,5
+826238,Alcaldia de Mosquera,Mosquera,Colombia,Latin America,3
+826239,Alcaldia de Sopó,Sopó,Colombia,Latin America,2
+826240,Alcaldia de Tenjo,nan,Colombia,Latin America,1
+826243,Alcaldia de Cartago,Cartago,Colombia,Latin America,4
+826380,Junta Intermunicipal de la Cuenca Baja del Rio Ayuquila (JIRA),nan,Mexico,Latin America,4
+826381,Junta Intermunicipal de la Región Norte del Estado de Jalisco (JINOR),nan,Mexico,Latin America,3
+826396,Municipality of Sintra,Sintra,Portugal,Europe,1
+826396,Munícipio de Sintra,Sintra,Portugal,Europe,4
+826397,Munícipio de Portalegre,Portalegre,Portugal,Europe,1
+826405,Municipality of Maia,nan,Portugal,Europe,1
+826407,Munícipio de Mirandela,Mirandela,Portugal,Europe,4
+826423,Municipality of Castelo Branco,Castelo Branco,Portugal,Europe,1
+826423,Município de Castelo Branco,Castelo Branco,Portugal,Europe,4
+826427,Municipality of Valongo,Valongo,Portugal,Europe,1
+826427,Município de Valongo,Valongo,Portugal,Europe,4
+826429,Municipality of Figueira da Foz,Figueira da Foz,Portugal,Europe,1
+826429,Município de Figueira da Foz,Figueira da Foz,Portugal,Europe,3
+826431,Municipality of Loulé,Loulé,Portugal,Europe,1
+826431,Município de Loulé,Loulé,Portugal,Europe,4
+826439,Nansana Municipal Council,nan,Uganda,Africa,1
+826446,City of Bradford,Bradford,United Kingdom of Great Britain and Northern Ireland,Europe,5
+826450,Durham County Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,3
+826455,Worcester City Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+827047,Fuzhou Municipal People's Government,nan,China,East Asia,4
+827048,Zhenjiang Municipal People's Government,nan,China,East Asia,4
+830907,Prefeitura Municipal de Cotriguaçu,Cotriguaçu,Brazil,Latin America,1
+830945,Prefeitura Municipal de Juruena,Juruena,Brazil,Latin America,1
+830945,Prefeitura Municipal de Juruena,nan,Brazil,Latin America,1
+831150,Municipio de Arboletes,Arboletes,Colombia,Latin America,1
+831152,Municipio de San Pedro de Urabá,San Pedro de Urabá,Colombia,Latin America,4
+831156,Municipio de Chigorodó,nan,Colombia,Latin America,1
+831230,Municipality of La Marsa,La Marsa,Tunisia,Africa,5
+831231,Kasama Municipal Council,Kasama,Zambia,Africa,1
+831234,"City of Fredericton, NB",nan,Canada,Canada,1
+831234,"City of Fredericton, NB",nan,Canada,nan,1
+831387,Caquetá,nan,Colombia,Latin America,1
+831388,Colima,nan,Mexico,Latin America,1
+831390,State of Lower Saxony,nan,Germany,Europe,1
+831391,Queretaro,nan,Mexico,Latin America,1
+831396,Baja California Sur,nan,Mexico,Latin America,1
+831425,Alcaldía Municipal La Paz,La Paz (Honduras),Honduras,Latin America,1
+831431,Cornwall Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,3
+831433,Comuna de Ataliva,Ataliva,Argentina,Latin America,2
+831502,New South Wales Government,nan,Australia,Oceania,1
+831615,Pikine,Dakar,Senegal,Africa,1
+831616,Commune de Tsévié,Tsévié,Togo,Africa,4
+831617,Commune de Bouaké,Bouaké,Côte d'Ivoire,Africa,2
+831618,Yaoundé 4,Yaoundé 4,Cameroon,Africa,5
+831620,Yaoundé 3,Yaoundé 3,Cameroon,Africa,3
+831674,Municipality of Amarante,Amarante,Portugal,Europe,1
+831674,Município de Amarante,Amarante,Portugal,Europe,3
+831811,Municipalidad de Zacatecoluca,Zacatecoluca,El Salvador,Latin America,1
+831812,Municipalidad de Puerto Barrios,Puerto Barrios,Guatemala,Latin America,2
+831823,City of Massa Marittima,Massa Marittima,Italy,Europe,1
+831823,Comune di Massa Marittima,Massa Marittima,Italy,Europe,3
+831834,CIOESTE,Cioeste,Brazil,Latin America,1
+831923,Muğla,nan,Turkey,Europe,2
+831926,Ramallah,nan,State of Palestine,Middle East,4
+831952,Municipalidad de Portoviejo,nan,Ecuador,Latin America,2
+831962,Município de Montalegre,Montalegre,Portugal,Europe,1
+831999,Concejo Municipal de Distrito de Monte Verde,nan,Costa Rica,Latin America,4
+832000,Municipalidad de Desamparados,nan,Costa Rica,Latin America,4
+832002,Municipalidad de Quepos,nan,Costa Rica,Latin America,2
+832009,Ayuntamiento de Xalapa,Xalapa,Mexico,Latin America,3
+832078,Municipality of Mafra,Mafra,Portugal,Europe,1
+832078,Município de Mafra,Mafra,Portugal,Europe,4
+832097,Municipality of Lagos (Portugal),nan,Portugal,Europe,1
+832097,Município de Lagos,nan,Portugal,Europe,3
+832274,Municipality of Odemira,nan,Portugal,Europe,1
+832274,Município de Odemira,nan,Portugal,Europe,2
+832497,Bridgend County Borough Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+832500,Darlington Borough Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+832504,Harlow Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+832509,Slough Borough Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+832610,"Orange County, NC",nan,United States of America,North America,2
+832838,Town of Wellfleet,Wellfleet,United States of America,North America,3
+832838,"Town of Wellfleet, MA",Wellfleet,United States of America,United States of America,2
+832909,Municipality of Coruche,nan,Portugal,Europe,1
+832909,Município de Coruche,nan,Portugal,Europe,2
+833235,Bahia,nan,Brazil,Latin America,1
+833236,Paraíba,nan,Brazil,Latin America,1
+833237,Santa Catarina,nan,Brazil,Latin America,1
+833238,Espirito Santo,nan,Brazil,Latin America,1
+833239,Alagoas,nan,Brazil,Latin America,1
+833240,Sergipe,nan,Brazil,Latin America,1
+833241,Rio Grande do Norte,nan,Brazil,Latin America,1
+833242,Guanajuato,nan,Mexico,Latin America,1
+833243,Nuevo León,nan,Mexico,Latin America,1
+833247,Puebla,nan,Mexico,Latin America,1
+833248,Chihuahua,nan,Mexico,Latin America,1
+833262,Nariño,nan,Colombia,Latin America,1
+833263,North Kalimantan,nan,Indonesia,Southeast Asia,1
+833264,Oaxaca,nan,Mexico,Latin America,1
+833265,Papua,nan,Indonesia,Southeast Asia,1
+833267,Sonora,nan,Mexico,Latin America,1
+833274,Antioquia,nan,Colombia,Latin America,1
+833275,Boyacá,nan,Colombia,Latin America,1
+833284,West Midlands Combined Authority,nan,United Kingdom of Great Britain and Northern Ireland,Europe,3
+833379,Bani-Suhaila Municipality,nan,State of Palestine,Middle East,3
+834047,Choma Municipal Council,nan,Zambia,Africa,1
+834058,Bogor Regency,nan,Indonesia,Southeast Asia,1
+834058,Bogor Regency,nan,Indonesia,Southeast Asia and Oceania,2
+834082,City of Chefchaouen,Chefchaouen,Morocco,Africa,1
+834083,"City of Eau Claire, WI",Eau Claire,United States of America,United States of America,2
+834083,"City of Eau Claire, WI",nan,United States of America,North America,2
+834096,"City of Richmond, BC",nan,Canada,Canada,1
+834096,"City of Richmond, BC",nan,Canada,nan,1
+834120,City of Tanjungpinang,nan,Indonesia,Southeast Asia,1
+834120,City of Tanjungpinang,nan,Indonesia,Southeast Asia and Oceania,2
+834126,Dobong-gu District of Seoul,nan,Republic of Korea,East Asia,2
+834126,Dobong-gu Municipal Government,nan,Republic of Korea,East Asia,1
+834131,Fuji City,nan,Japan,East Asia,2
+834139,Gangdong-gu District of Seoul,nan,Republic of Korea,East Asia,2
+834139,Gangdong-gu Municipal Government,nan,Republic of Korea,East Asia,1
+834143,Hokuto City,nan,Japan,East Asia,2
+834144,Hue City,Hue,Viet Nam,Southeast Asia,1
+834153,Jasin Municipal Council,nan,Malaysia,Southeast Asia and Oceania,1
+834155,Kawagoe City,nan,Japan,East Asia,2
+834157,Hang Tuah Jaya Municipal Council,nan,Malaysia,Southeast Asia,1
+834157,Hang Tuah Jaya Municipal Council,nan,Malaysia,Southeast Asia and Oceania,1
+834161,Kinmen County Government,nan,"Taiwan, China",East Asia,1
+834161,Kinmen County Government,nan,"Taiwan, Greater China",East Asia,3
+834163,Hat Siao Sub-District Municipality,nan,Thailand,Southeast Asia and Oceania,1
+834167,Kochi Municipal Corporation,KOCHI,India,South Asia,1
+834167,Kochi Municipal Corporation,KOCHI,India,South and West Asia,2
+834190,Kurashiki City,nan,Japan,East Asia,2
+834192,Koriyama City,nan,Japan,East Asia,1
+834196,Miyoshi City,nan,Japan,East Asia,2
+834202,Mogale City Local Municipality,nan,South Africa,Africa,1
+834219,Municipality of Corrientes,nan,Argentina,Latin America,3
+834226,Municipality of Bell Ville,nan,Argentina,Latin America,1
+834228,Municipality of Curridabat,nan,Costa Rica,Latin America,2
+834229,Municipality of Bragado,nan,Argentina,Latin America,2
+834232,Municipality of Caldas,nan,Colombia,Latin America,1
+834238,Municipality of Centeno,nan,Argentina,Latin America,1
+834246,Municipality of Gemona del Friuli,nan,Italy,Europe,1
+834251,Municipality of Coronel Dominguez,nan,Argentina,Latin America,3
+834255,Municipality of Guaymallén,nan,Argentina,Latin America,2
+834256,Municipality of La Antigua Guatemala,nan,Guatemala,Latin America,1
+834258,Municipality of Inriville,nan,Argentina,Latin America,1
+834259,Municipality of Lobos,nan,Argentina,Latin America,2
+834260,Municipality of Olavarría,nan,Argentina,Latin America,1
+834261,Municipality of Irapuato,nan,Mexico,Latin America,3
+834277,Municipality of Patagones,nan,Argentina,Latin America,2
+834278,Municipality of Resistencia,nan,Argentina,Latin America,3
+834280,Municipality of Pérez,nan,Argentina,Latin America,1
+834287,Municipality of Terra Nova do Norte,nan,Brazil,Latin America,1
+834289,Municipality of Rauch,nan,Argentina,Latin America,3
+834299,Musashino City,nan,Japan,East Asia,1
+834300,Municipality of Villanueva,nan,Guatemala,Latin America,1
+834301,Municipality of San Antonio de Areco,nan,Argentina,Latin America,3
+834313,Municipality of Tópaga,nan,Colombia,Latin America,4
+834323,Patong Municipality,nan,Thailand,Southeast Asia and Oceania,1
+834324,Nihonmatsu City,nan,Japan,East Asia,2
+834331,Nakano City,nan,Japan,East Asia,1
+834339,Odawara City,nan,Japan,East Asia,2
+834347,Seberang Perai Municipal Council,nan,Malaysia,Southeast Asia,2
+834347,Seberang Perai Municipal Council,nan,Malaysia,Southeast Asia and Oceania,2
+834349,Shinjuku City,nan,Japan,East Asia,2
+834352,Suita City,nan,Japan,East Asia,1
+834362,Sigtuna Municipality,Sigtuna Municipality,Sweden,Europe,1
+834370,"Town of Secaucus, NJ",nan,United States of America,North America,2
+834373,"Town of York, ME",nan,United States of America,North America,1
+834373,"Town of York, ME",nan,United States of America,United States of America,2
+834374,Tagum City,nan,Philippines,Southeast Asia,2
+834374,Tagum City,nan,Philippines,Southeast Asia and Oceania,2
+834377,Takarazuka City,nan,Japan,East Asia,2
+834385,Ube City,nan,Japan,East Asia,2
+834400,Yasothon Town Municipality,nan,Thailand,Southeast Asia,1
+834402,Yokosuka City,nan,Japan,East Asia,2
+834403,Municipality of San Martín de los Andes,nan,Argentina,Latin America,3
+834405,Municipality of Soldini,nan,Argentina,Latin America,1
+834406,Municipality of San Pedro Tlaquepaque,nan,Mexico,Latin America,4
+834413,Municipality of Tahuamanu,nan,Peru,Latin America,1
+834451,"Metro Vancouver, BC",nan,Canada,Canada,1
+835961,Riau Province,nan,Indonesia,Southeast Asia,1
+835965,West Papua Province,nan,Indonesia,Southeast Asia,1
+838937,Mersin Metropolitan Municipality,nan,Turkey,Europe,2
+838939,Kocaeli Metropolitan Municipality,nan,Turkey,Europe,1
+839648,Ayuntamiento Victoria,nan,Mexico,Latin America,2
+839649,Ayuntamiento de Centro,nan,Mexico,Latin America,1
+839650,Ayuntamiento de Uriangato,nan,Mexico,Latin America,2
+839665,Ayuntamiento de Celaya,nan,Mexico,Latin America,4
+839666,Municipio de Escuintla,nan,Guatemala,Latin America,4
+839667,Municipio de Guanagazapa,nan,Guatemala,Latin America,2
+839668,Municipio de Iztapa,nan,Guatemala,Latin America,4
+839669,Municipio de San Jose,nan,Guatemala,Latin America,3
+839670,Municipio de Santa Catarina Pinula,nan,Guatemala,Latin America,2
+839671,Municipalidad de Ñuñoa,nan,Chile,Latin America,1
+839672,Municipalidad Distrital de La Molina,nan,Peru,Latin America,3
+839673,Municipalidad Distrital de Jesús María,nan,Peru,Latin America,4
+839931,Dong Hoi City,nan,Viet Nam,Southeast Asia and Oceania,1
+839954,Vinh City,nan,Viet Nam,Southeast Asia and Oceania,1
+839963,Alpa Corral,Alpa Corral,Argentina,Latin America,1
+839964,Ameghino,Ameghino,Argentina,Latin America,1
+839965,Dolores,Dolores,Argentina,Latin America,1
+839966,Loncopue,Loncopue,Argentina,Latin America,1
+839967,Malargue,Malargue,Argentina,Latin America,2
+839970,San Justo,San Justo,Argentina,Latin America,1
+839970,San Justo (Argentina),San Justo,Argentina,Latin America,2
+839971,San Nicolás de los Arroyos,San Nicolás de los Arroyos,Argentina,Latin America,1
+839972,Villa Eloisa,Villa Eloisa,Argentina,Latin America,1
+839980,Municipalidad de Avellaneda,nan,Argentina,Latin America,4
+839982,Sepang Municipal Council,nan,Malaysia,Southeast Asia and Oceania,1
+840018,Municipalidad Distrital de Ate,Lima,Peru,Latin America,1
+840018,Municipalidad Distrital de Ate,nan,Peru,Latin America,3
+840024,Perth and Kinross,nan,United Kingdom of Great Britain and Northern Ireland,Europe,3
+840030,Reconquista,nan,Argentina,Latin America,2
+840033,Laborde,nan,Argentina,Latin America,1
+840034,Morón,nan,Argentina,Latin America,1
+840035,Cerrito,nan,Argentina,Latin America,1
+840036,La Paz,nan,Argentina,Latin America,2
+840037,Tilisarao,nan,Argentina,Latin America,1
+840038,Justiniano Posse,nan,Argentina,Latin America,2
+840039,Arequito,nan,Argentina,Latin America,2
+840042,Gislaveds Kommun,GISLAVED,Sweden,Europe,1
+840070,Somerset West and Taunton,nan,United Kingdom of Great Britain and Northern Ireland,Europe,4
+840075,Unley City Council,Unley,Australia,Oceania,2
+840077,Prefeitura de Santa Luzia,Santa Luzia,Brazil,Latin America,1
+840107,City of Kaposvár,Kaposvar,Hungary,Europe,1
+840113,Bhavnagar Municipal Corporation,Bhavnagar,India,South Asia,1
+840122,Siliguri Municipal Corporation,Siliguri,India,South Asia,1
+840122,Siliguri Municipal Corporation,Siliguri,India,South and West Asia,1
+840131,Tiruchirappalli City Municipal Corporation,Tiruchirappalli,India,South Asia,1
+840131,Tiruchirappalli City Municipal Corporation,Tiruchirappalli,India,South and West Asia,1
+840132,Comune di Assisi,Assisi,Italy,Europe,1
+840134,Tirunelveli Municipal Corporation,Tirunelveli,India,South Asia,1
+840153,Municipality of Santa Catarina,Santa Catarina,Mexico,Latin America,2
+840158,"City of San Fernando, La Union",San Fernando,Philippines,Southeast Asia,1
+840161,Municipality of Del Carmen,Del Carmen,Philippines,Southeast Asia,2
+840161,Municipality of Del Carmen,Del Carmen,Philippines,Southeast Asia and Oceania,2
+840169,Eunpyeong-gu Municipal Government of Seoul,Seoul Teukbyeolsi,Republic of Korea,East Asia,1
+840178,Michuhol-gu District of Incheon,nan,Republic of Korea,East Asia,1
+840178,Michuhol-gu Municipal Government of Incheon,nan,Republic of Korea,East Asia,1
+840186,"Municipality of San Francisco, Cebu",San Francisco,Philippines,Southeast Asia,1
+840201,"City of Columbus, IN",Columbus,United States of America,United States of America,1
+840208,Botkyrka kommun,Tumba,Sweden,Europe,1
+840228,"Town of Davie, FL",Davie,United States of America,United States of America,1
+840234,"City of Greenville, SC",Greenville,United States of America,United States of America,1
+840244,Prefeitura de Águas da Prata,nan,Brazil,Latin America,2
+840253,Prefeitura de Pedra Bela,nan,Brazil,Latin America,1
+840255,Prefeitura de Iperó,nan,Brazil,Latin America,1
+840269,"Town of Whitby, ON",Whitby,Canada,Canada,1
+840269,"Town of Whitby, ON",nan,Canada,North America,2
+840269,"Town of Whitby, ON",nan,Canada,nan,1
+840309,Markaryds Kommun,nan,Sweden,Europe,1
+840313,Municipalidad Cerro Navia,nan,Chile,Latin America,4
+840328,Municipalidad San Pedro Carchá,nan,Guatemala,Latin America,1
+840349,St Davids,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+840370,Upplands-Bro Municipality,Upplands-Bro kommun,Sweden,Europe,1
+840371,Falkoping Kommun,Falköping,Sweden,Europe,2
+840371,Falköpings kommun,Falköping,Sweden,Europe,1
+840419,Mahasarakham Municipality,nan,Thailand,Southeast Asia and Oceania,1
+840425,Skövde kommun,Skövde,Sweden,Europe,2
+840428,Hua-Hin Municipality,nan,Thailand,Southeast Asia,1
+840490,City of La Carlota,nan,Philippines,Southeast Asia and Oceania,1
+840492,City of Malolos,nan,Philippines,Southeast Asia and Oceania,1
+840507,Dura Municipality,nan,State of Palestine,Middle East,1
+840514,Blitar City,nan,Indonesia,Southeast Asia,2
+840514,Blitar City,nan,Indonesia,Southeast Asia and Oceania,1
+840515,Tangerang Selatan City,nan,Indonesia,Southeast Asia and Oceania,2
+840521,City of Denizli,nan,Turkey,Europe,4
+840529,Ayuntamiento de Victoria (Tamaulipas),nan,Mexico,Latin America,3
+840601,Ayuntamiento de San Miguel de Allende,nan,Mexico,Latin America,2
+840693,Municipio de Maneiro,nan,Venezuela (Bolivarian Republic of),Latin America,3
+840905,City of Kaysone Phomvihane,nan,Lao People's Democratic Republic,Southeast Asia,1
+840905,City of Kaysone Phomvihane,nan,Lao People's Democratic Republic,Southeast Asia and Oceania,1
+840914,Prefeitura de Cáceres,nan,Brazil,Latin America,2
+840915,Prefeitura de Curvelo,nan,Brazil,Latin America,2
+840916,Prefeitura de Igarassu,nan,Brazil,Latin America,1
+840917,Prefeitura de Pau Brasil,nan,Brazil,Latin America,4
+840918,Prefeitura de Pilões,nan,Brazil,Latin America,4
+840919,Prefeitura de Fraiburgo,nan,Brazil,Latin America,1
+840923,Prefeitura de Nova Santa Rita,nan,Brazil,Latin America,3
+840924,Prefeitura de Alexânia,nan,Brazil,Latin America,4
+840925,Prefeitura de Indiaroba,nan,Brazil,Latin America,1
+840926,Prefeitura de Serra Talhada,nan,Brazil,Latin America,4
+840927,Prefeitura de São Cristóvão,nan,Brazil,Latin America,4
+840930,Prefeitura de Venâncio Aires,nan,Brazil,Latin America,1
+840931,Prefeitura de Cordeirópolis,nan,Brazil,Latin America,4
+840935,Prefeitura de Brasiléia,nan,Brazil,Latin America,4
+840936,Prefeitura de Guanhães,nan,Brazil,Latin America,4
+840937,Prefeitura de Epitaciolândia,nan,Brazil,Latin America,1
+840938,Prefeitura de São Luis de Montes Belos,nan,Brazil,Latin America,1
+840941,Prefeitura de Vila Nova dos Martírios,nan,Brazil,Latin America,1
+840943,Prefeitura de Boa Ventura,nan,Brazil,Latin America,4
+840944,Prefeitura de Carnaúba dos Dantas,nan,Brazil,Latin America,4
+840945,Prefeitura de Santa Bárbara,nan,Brazil,Latin America,3
+840948,City of Pakse,nan,Lao People's Democratic Republic,Southeast Asia,1
+840948,City of Pakse,nan,Lao People's Democratic Republic,Southeast Asia and Oceania,1
+841003,Ayuntamiento de Apodaca,nan,Mexico,Latin America,4
+841050,Ayuntamiento San Nicolás de los Garza,nan,Mexico,Latin America,2
+841098,Municipalidad Distrital de Chimbote,nan,Peru,Latin America,3
+841153,Municipalidad de Bellavista,nan,Peru,Latin America,2
+841154,Municipalidad de Independencia (Peru),nan,Peru,Latin America,2
+841155,Municipalidad de Tarapoto,nan,Peru,Latin America,1
+841269,Municipalidad de Montecarlo,nan,Argentina,Latin America,3
+841326,Municipalidad de Oro Verde,nan,Argentina,Latin America,1
+841416,Municipalidad de Puerto Esperanza,nan,Argentina,Latin America,1
+841490,Penampang District Council,nan,Malaysia,Southeast Asia and Oceania,1
+841491,Muar Municipal Council,nan,Malaysia,Southeast Asia,2
+841491,Muar Municipal Council,nan,Malaysia,Southeast Asia and Oceania,1
+841492,Tawau Municipal Council,nan,Malaysia,Southeast Asia and Oceania,1
+841529,Epping Forest DC,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+841540,South Lakeland District Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+841577,Prefeitura de Paiçandu,nan,Brazil,Latin America,1
+841952,Overstrand Local Municipality,nan,South Africa,Africa,1
+841956,"Municipality of La Cumbre, Valle del Cauca",nan,Colombia,Latin America,1
+841964,"City of Hallandale Beach, FL",Hallandale Beach,United States of America,North America,1
+841964,"City of Hallandale Beach, FL",Hallandale Beach,United States of America,United States of America,2
+841965,"City of Lansing, MI",Lansing,United States of America,United States of America,2
+841976,Dhulikhel Municipality,Dhulikhel,Nepal,South Asia,1
+841980,Karsiyaka Municipality,Karsiyaka,Turkey,Europe,2
+842012,"City of Burlington, ON",nan,Canada,Canada,1
+842012,"City of Burlington, ON",nan,Canada,nan,1
+842020,"City of Council Bluffs, IA",nan,United States of America,United States of America,1
+842026,"The Woodlands Township, TX",nan,United States of America,United States of America,1
+842035,"State College Borough, PA",nan,United States of America,United States of America,2
+842044,"Ville de Longueuil, QC",nan,Canada,Canada,1
+842044,"Ville de Longueuil, QC",nan,Canada,nan,1
+842047,"City of Coquitlam, BC",nan,Canada,nan,1
+842160,Balikesir Metropolitan Municipality,Balikesir,Turkey,Europe,2
+842165,Mezitli,Mezitli,Turkey,Europe,2
+842165,Mezitli,nan,Turkey,Europe,1
+842890,Maranhão,nan,Brazil,Latin America,1
+843399,Wandsworth Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,3
+845130,Prefeitura de Canápolis,nan,Brazil,Latin America,1
+845131,Prefeitura de Dois Irmãos,nan,Brazil,Latin America,3
+845132,Prefeitura de Goiás (Goiás Velho),nan,Brazil,Latin America,2
+845133,Prefeitura de Monteiro Lobato,nan,Brazil,Latin America,2
+845134,Prefeitura de São Bento do Una,nan,Brazil,Latin America,1
+845299,San Sebastián de Mariquita,nan,Colombia,Latin America,3
+845301,Montes de Oca,nan,Costa Rica,Latin America,3
+845302,Paraíso,Paraíso,Costa Rica,Latin America,1
+845302,Paraíso,nan,Costa Rica,Latin America,2
+845304,Santa Ana (Costa Rica),nan,Costa Rica,Latin America,3
+845305,Guarco,nan,Costa Rica,Latin America,1
+845307,Zarcero,nan,Costa Rica,Latin America,3
+845308,Puerto Cortés,nan,Honduras,Latin America,3
+845309,Puente Piedra,nan,Peru,Latin America,2
+845316,Villa de Soto,nan,Argentina,Latin America,1
+845317,Quemú Quemú,nan,Argentina,Latin America,1
+847236,Ramona,nan,Argentina,Latin America,2
+847242,Oberá,nan,Argentina,Latin America,1
+847243,Maggiolo,nan,Argentina,Latin America,1
+847244,Chañaritos,nan,Argentina,Latin America,1
+847245,Leandro . N. Alem,nan,Argentina,Latin America,1
+847246,La Francia,nan,Argentina,Latin America,1
+847263,Almafuerte,nan,Argentina,Latin America,1
+847922,Junta Municipal de Medio Ambiente Lagunas (JIMAL),nan,Mexico,Latin America,3
+848122,Alajuela,nan,Costa Rica,Latin America,3
+848124,Goicoechea,nan,Costa Rica,Latin America,2
+848125,Oreamuno,nan,Costa Rica,Latin America,3
+848126,La Democracia,nan,Guatemala,Latin America,1
+848127,Santa Bárbara (Costa Rica),nan,Costa Rica,Latin America,3
+848128,Ocú,nan,Panama,Latin America,3
+848129,Esquías,nan,Honduras,Latin America,1
+848130,San Pedro Yepocapa,nan,Guatemala,Latin America,1
+848131,Gámeza,nan,Colombia,Latin America,2
+848132,Villa El Chocón,nan,Argentina,Latin America,1
+848133,Villa Gobernador Gálvez,nan,Argentina,Latin America,1
+848135,San Pedro de la Paz,nan,Chile,Latin America,3
+848137,Beteitiva,nan,Colombia,Latin America,2
+848138,Prefeitura de Conde (Paraíba),nan,Brazil,Latin America,3
+848145,Ciudad Madero,Ciudad Madero,Mexico,Latin America,1
+848145,Ciudad Madero,nan,Mexico,Latin America,2
+848149,Mato Grosso do Sul,nan,Brazil,Latin America,1
+848249,Corrales,nan,Colombia,Latin America,2
+848259,Mongua,nan,Colombia,Latin America,3
+848300,Aceh,nan,Indonesia,Southeast Asia,1
+848301,Central Kalimantan,nan,Indonesia,Southeast Asia,1
+848402,Lincoln (Argentina),nan,Argentina,Latin America,1
+848404,Mongui,nan,Colombia,Latin America,2
+848407,Junta Intermunicipal de Medio Ambiente del Ayuquila Alto,nan,Mexico,Latin America,3
+848408,Municipio de Cajamarca,nan,Colombia,Latin America,2
+848409,Lince,nan,Peru,Latin America,3
+848469,City of Georgetown,nan,Guyana,Latin America,1
+848474,Richmond Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,3
+848476,Municipalidad de Cañas,nan,Costa Rica,Latin America,3
+848478,Banyuwangi City,nan,Indonesia,Southeast Asia,1
+848478,Banyuwangi City,nan,Indonesia,Southeast Asia and Oceania,1
+848483,Oliva (Argentina),nan,Argentina,Latin America,2
+848484,General Lagos,nan,Argentina,Latin America,1
+848502,West Torrens City Council,nan,Australia,Oceania,1
+848502,West Torrens City Council,nan,Australia,Southeast Asia and Oceania,1
+848526,Coahuila,nan,Mexico,Latin America,1
+848527,Sinaloa,nan,Mexico,Latin America,1
+848564,City of Zadar,nan,Croatia,Europe,1
+848565,Chicago Metropolitan Mayors Caucus,nan,United States of America,North America,1
+848565,Chicago Metropolitan Mayors Caucus,nan,United States of America,United States of America,1
+848567,Mid-America Regional Council,nan,United States of America,North America,1
+848567,Mid-America Regional Council,nan,United States of America,United States of America,2
+848568,"Metropolitan Council, Twin Cities",nan,United States of America,North America,1
+848568,"Metropolitan Council, Twin Cities",nan,United States of America,United States of America,2
+848917,Knysna,nan,South Africa,Africa,2
+848927,Ville de Maroua,nan,Cameroon,Africa,3
+848937,Rio das Flores,nan,Brazil,Latin America,1
+848950,Ushuaia,nan,Argentina,Latin America,1
+848964,Presidencia Roque Sáenz Peña,nan,Argentina,Latin America,1
+848970,Villa Carlos Paz,nan,Argentina,Latin America,1
+848971,Balcarce,nan,Argentina,Latin America,1
+848972,Transito,nan,Argentina,Latin America,1
+848975,Eldorado,nan,Argentina,Latin America,1
+848976,Pronunciamiento,nan,Argentina,Latin America,1
+848977,Busbanza,nan,Colombia,Latin America,2
+848978,Floresta,nan,Colombia,Latin America,2
+848981,City of Ormoc,nan,Philippines,Southeast Asia,2
+848981,City of Ormoc,nan,Philippines,Southeast Asia and Oceania,1
+848997,Villarino,nan,Argentina,Latin America,2
+848998,Villa de Merlo,nan,Argentina,Latin America,1
+848999,Alberti,nan,Argentina,Latin America,1
+849013,Distrito Federal (Brasil),nan,Brazil,Latin America,1
+849016,Concepción del Uruguay,nan,Argentina,Latin America,1
+849017,Municipio de Chitré,nan,Panama,Latin America,2
+849023,Uruapan,nan,Mexico,Latin America,2
+849039,Ceres (Argentina),nan,Argentina,Latin America,1
+849040,General Pueyrredon,nan,Argentina,Latin America,2
+849041,Gualeguaychú,nan,Argentina,Latin America,2
+849042,Plottier,nan,Argentina,Latin America,1
+849043,Santa Anita (Argentina),nan,Argentina,Latin America,1
+849044,Villa Amelia,nan,Argentina,Latin America,1
+849051,Udaipur Municipal Corporation,nan,India,South Asia,1
+849051,Udaipur Municipal Corporation,nan,India,South and West Asia,1
+849086,Piauí,nan,Brazil,Latin America,1
+849121,Junín,nan,Argentina,Latin America,1
+849122,Puerto Madryn,nan,Argentina,Latin America,1
+849895,Commune de Maga,nan,Cameroon,Africa,2
+850301,Bellingen Shire,nan,Australia,Oceania,2
+850303,Local Government Unit of Vigan City,nan,Philippines,Southeast Asia,2
+850304,Vyas Municipality,nan,Nepal,South Asia,1
+850305,Prefeitura de Joaçaba,nan,Brazil,Latin America,2
+850383,Prefeitura de Cocal do Sul,nan,Brazil,Latin America,1
+850404,Prefeitura de Guabiruba,nan,Brazil,Latin America,1
+850413,Prefeitura de Itá,nan,Brazil,Latin America,2
+850424,Prefeitura de Itapoá,nan,Brazil,Latin America,2
+850468,Prefeitura de Passo de Torres,nan,Brazil,Latin America,1
+850487,Prefeitura de Planalto Alegre,nan,Brazil,Latin America,1
+850538,Prefeitura de Treze Tílias,nan,Brazil,Latin America,1
+850544,Prefeitura de Tunápolis,nan,Brazil,Latin America,1
+850566,Prefeitura de Piraquara,nan,Brazil,Latin America,2
+850568,Prefeitura de Rolândia,nan,Brazil,Latin America,1
+850585,Municipality of Ambato,nan,Ecuador,Latin America,2
+851347,Gloucestershire County Council,Gloucester,United Kingdom of Great Britain and Northern Ireland,Europe,1
+852443,"Ferndale, MI",nan,United States of America,United States of America,2
+852466,South Gloucestershire Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+852472,London Borough of Lewisham,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+852473,Sandwell Metropolitan Borough Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+852522,Cotswold District Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+852523,Stroud District Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+852524,Westminster City Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+853011,Szabolcs-Szatmár-Bereg County,Nyíregyháza,Hungary,Europe,1
+853029,Prešov Region,nan,Slovakia,Europe,1
+854042,Città Metropolitana di Milano,Milano,Italy,Europe,1
+854042,Metropolitan Municipality of Milan,Milano,Italy,Europe,1
+854043,Città Metropolitana di Napoli,Napoli,Italy,Europe,1
+854043,Metropolitan Municipality of Naples,Napoli,Italy,Europe,1
+854050,"City of Nanaimo, BC",nan,Canada,Canada,1
+854055,Tultitlán,nan,Mexico,Latin America,1
+854059,Prefeitura de Brejo da Madre de Deus,nan,Brazil,Latin America,1
+856655,Cardiff Capital Region,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+859052,Kitami City,nan,Japan,East Asia,2
+859053,City of Noboribetsu,nan,Japan,East Asia,2
+859054,Kitahiroshima City,nan,Japan,East Asia,2
+859055,Matsumae Town,nan,Japan,East Asia,2
+859056,Kutchan Town,nan,Japan,East Asia,2
+859057,Kyowa Town,nan,Japan,East Asia,2
+859058,Tomari Village,nan,Japan,East Asia,2
+859059,Kamifurano Town,nan,Japan,East Asia,2
+859060,Shosanbetsu Village,nan,Japan,East Asia,2
+859061,Teshio Town,nan,Japan,East Asia,2
+859062,Shiraoi Town,nan,Japan,East Asia,2
+859063,Atsuma Town,nan,Japan,East Asia,2
+859064,Town of Shihoro,nan,Japan,East Asia,2
+859065,Nakasatsunai Village,nan,Japan,East Asia,2
+859066,Ashoro-Town,nan,Japan,East Asia,2
+859067,Hirosaki City,nan,Japan,East Asia,2
+859068,Hanamaki City,nan,Japan,East Asia,2
+859069,Kuzumaki Town,nan,Japan,East Asia,2
+859070,Iwate Town,nan,Japan,East Asia,2
+859071,Yahaba Town,nan,Japan,East Asia,2
+859072,Noda Village,nan,Japan,East Asia,2
+859073,Ichinohe Town,nan,Japan,East Asia,2
+859074,Tagajo City,nan,Japan,East Asia,2
+859075,Minamisanriku Town,nan,Japan,East Asia,2
+859076,Higashine City,nan,Japan,East Asia,1
+859077,Fukushima City,nan,Japan,East Asia,1
+859078,Town of Yabuki,nan,Japan,East Asia,2
+859079,Town of Hanawa,nan,Japan,East Asia,2
+859080,Namie Town,nan,Japan,East Asia,2
+859081,City of Sakuragawa,nan,Japan,East Asia,2
+859082,Numata City,nan,Japan,East Asia,2
+859083,Katashina Village,nan,Japan,East Asia,2
+859084,Kawaba Village,nan,Japan,East Asia,2
+859085,Sayama City,nan,Japan,East Asia,2
+859086,Koshigaya City,nan,Japan,East Asia,2
+859087,Shiki City,nan,Japan,East Asia,2
+859088,Wako City,nan,Japan,East Asia,2
+859089,Satte City,nan,Japan,East Asia,2
+859090,Yokoze Town,nan,Japan,East Asia,2
+859091,Matsubushi Town,nan,Japan,East Asia,2
+859092,Yotsukaido City,nan,Japan,East Asia,2
+859093,Chonan Town,nan,Japan,East Asia,1
+859094,Katsushika City,nan,Japan,East Asia,1
+859095,Mizuho Town,nan,Japan,East Asia,2
+859096,Kamakura City,nan,Japan,East Asia,2
+859097,Yamato City,nan,Japan,East Asia,2
+859098,Ayase City,nan,Japan,East Asia,2
+859099,Hayama Town,nan,Japan,East Asia,1
+859100,Oiso Town,nan,Japan,East Asia,2
+859101,Kaisei Town,nan,Japan,East Asia,2
+859102,Shibata City,nan,Japan,East Asia,2
+859103,Murakami City,nan,Japan,East Asia,2
+859104,Myoko City,nan,Japan,East Asia,2
+859105,Tainai City,nan,Japan,East Asia,2
+859106,City of Kanazawa,nan,Japan,East Asia,2
+859107,Tsubata Town,nan,Japan,East Asia,2
+859108,Mihama Town,nan,Japan,East Asia,2
+859109,Yamanashi City,nan,Japan,East Asia,2
+859110,Okaya City,nan,Japan,East Asia,2
+859111,Suwa City,nan,Japan,East Asia,2
+859112,Omachi City,nan,Japan,East Asia,2
+859113,Iiyama City,nan,Japan,East Asia,2
+859114,Saku City,nan,Japan,East Asia,2
+859115,Chikuma City,nan,Japan,East Asia,2
+859116,Kitaaiki Village,nan,Japan,East Asia,2
+859117,Tateshina Town,nan,Japan,East Asia,2
+859118,Hara Village,nan,Japan,East Asia,2
+859119,Minamiminowa Village,nan,Japan,East Asia,2
+859120,Matsukawa Town,nan,Japan,East Asia,2
+859121,Neba Village,nan,Japan,East Asia,2
+859122,Shinano Town,nan,Japan,East Asia,2
+859123,Takayama City,nan,Japan,East Asia,2
+859124,Kani City,nan,Japan,East Asia,2
+859125,City of Shimada,nan,Japan,East Asia,1
+859126,Iwata City,nan,Japan,East Asia,2
+859127,Kikugawa City,nan,Japan,East Asia,2
+859128,Makinohara City,nan,Japan,East Asia,1
+859129,Nagaizumi Town,nan,Japan,East Asia,2
+859130,Handa City,nan,Japan,East Asia,2
+859131,Inazawa City,nan,Japan,East Asia,2
+859132,Iwakura City,nan,Japan,East Asia,2
+859133,Nagakute City,nan,Japan,East Asia,2
+859134,Tobishima Village,nan,Japan,East Asia,2
+859135,Higashiura Town,nan,Japan,East Asia,2
+859136,Yokkaichi City,nan,Japan,East Asia,2
+859137,The City of Suzuka,nan,Japan,East Asia,2
+859138,Shima City,nan,Japan,East Asia,2
+859139,Minamiise Town,nan,Japan,East Asia,2
+859140,Konan City,nan,Japan,East Asia,2
+859141,Takashima City,nan,Japan,East Asia,2
+859142,Fukuchiyama City,nan,Japan,East Asia,2
+859143,Miyazu City,nan,Japan,East Asia,2
+859144,Kizugawa City,nan,Japan,East Asia,2
+859145,Oyamazaki Town,nan,Japan,East Asia,2
+859146,Ine Town,nan,Japan,East Asia,2
+859147,Town of Yosano,nan,Japan,East Asia,1
+859148,Ibaraki City,nan,Japan,East Asia,2
+859149,Ashiya City,nan,Japan,East Asia,2
+859150,Shiso City,nan,Japan,East Asia,2
+859151,Kato City,nan,Japan,East Asia,2
+859152,Hashimoto City,nan,Japan,East Asia,2
+859153,Yonago City,nan,Japan,East Asia,1
+859154,Hokuei Town,nan,Japan,East Asia,2
+859155,Hiezu Village,nan,Japan,East Asia,2
+859156,Nanbu Town,nan,Japan,East Asia,2
+859157,Matsue City,nan,Japan,East Asia,2
+859158,Izumo City,nan,Japan,East Asia,2
+859159,Oda City,nan,Japan,East Asia,2
+859160,Setouchi City,nan,Japan,East Asia,2
+859161,Akaiwa City,nan,Japan,East Asia,2
+859162,Fukuyama City,nan,Japan,East Asia,2
+859163,Mine City,nan,Japan,East Asia,2
+859164,Sanyo-Onoda City,nan,Japan,East Asia,2
+859165,Kan-onji City,nan,Japan,East Asia,2
+859166,Tadotsu Town,nan,Japan,East Asia,1
+859167,Imabari City,nan,Japan,East Asia,2
+859168,Saijo City,nan,Japan,East Asia,2
+859169,Kuroshio Town,nan,Japan,East Asia,2
+859170,Ogori City,nan,Japan,East Asia,2
+859171,Onojo City,nan,Japan,East Asia,2
+859172,Asakura City,nan,Japan,East Asia,2
+859173,Okagaki Town,nan,Japan,East Asia,2
+859174,Oki Town,nan,Japan,East Asia,1
+859175,Soeda Town,nan,Japan,East Asia,2
+859176,Aka Village,nan,Japan,East Asia,2
+859177,Takeo City,nan,Japan,East Asia,2
+859178,Ureshino City,nan,Japan,East Asia,2
+859179,Nagasaki City,nan,Japan,East Asia,2
+859180,Isahaya City,nan,Japan,East Asia,2
+859181,Tamana City,nan,Japan,East Asia,2
+859182,Uto City,nan,Japan,East Asia,2
+859183,Kamiamakusa City,nan,Japan,East Asia,2
+859184,Nagomi Town,nan,Japan,East Asia,2
+859185,Minamioguni Town,nan,Japan,East Asia,2
+859186,Reihoku Town,nan,Japan,East Asia,2
+859187,Saiki City,nan,Japan,East Asia,2
+859188,Kirishima City,nan,Japan,East Asia,2
+859189,Minamikyushu City,nan,Japan,East Asia,2
+859190,Aira City,nan,Japan,East Asia,2
+859191,Nakatane Town,nan,Japan,East Asia,2
+859192,Tokunoshima Town,nan,Japan,East Asia,2
+859193,China Town,nan,Japan,East Asia,2
+859194,Itoman City,nan,Japan,East Asia,2
+859195,Nanjo City,nan,Japan,East Asia,2
+859196,Yomitan Village,nan,Japan,East Asia,2
+859197,Iheya Village,nan,Japan,East Asia,2
+859252,Municipalidad de Machu Picchu,nan,Peru,Latin America,1
+859253,Mora kommun,nan,Sweden,Europe,1
+859254,Uppvidinge Municipality,Åseda,Sweden,Europe,1
+859254,Uppvidinge kommun,Åseda,Sweden,Europe,1
+860640,Junta Intermunicipal de Medio Ambiente Altos Norte (JIAN),nan,Mexico,Latin America,2
+861779,Järfälla kommun,nan,Sweden,Europe,1
+861790,Wokingham Borough Council,Wokingham,United Kingdom of Great Britain and Northern Ireland,Europe,1
+862419,Sumbawa Regency,nan,Indonesia,Southeast Asia,1
+862468,Borlänge kommun,nan,Sweden,Europe,1
+862479,San Pedro Sula,nan,Honduras,Latin America,1
+862482,San Pedro Garza García,nan,Mexico,Latin America,2
+862499,Marcos Juárez,nan,Argentina,Latin America,1
+862501,Concordia,nan,Argentina,Latin America,1
+862503,Villa Ocampo,nan,Argentina,Latin America,1
+862505,Cheltenham Borough Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+862564,Lycksele kommun,Lycksele,Sweden,Europe,1
+862572,"Regional District of Nanaimo, BC",nan,Canada,Canada,1
+862573,"Regional District of Central Kootenay, BC",nan,Canada,Canada,1
+862573,"Regional District of Central Kootenay, BC",nan,Canada,nan,1
+862575,Eden District Council,nan,United Kingdom of Great Britain and Northern Ireland,Europe,2
+862614,Municipio de Colima,nan,Mexico,Latin America,1
+862659,City of Segrate,nan,Italy,Europe,1
+862659,Comune di Segrate,nan,Italy,Europe,1
+862673,"City of Selkirk, MB",nan,Canada,Canada,1
+862673,"City of Selkirk, MB",nan,Canada,nan,1
+862705,Comodoro Rivadavia,nan,Argentina,Latin America,1
+862760,"City of Oxford, OH",nan,United States of America,United States of America,2
+862768,Vallentuna kommun,nan,Sweden,Europe,1
+862814,"South-East Region of Ireland (Kilkenny, Carlow, Wexford, and Waterford Counties)",Waterford,Ireland,Europe,1
+862814,"South-East Region of Ireland (Kilkenny, Carlow, Wexford, and Waterford Counties)",nan,Ireland,Europe,1
+862899,Yukon,nan,Canada,Canada,1
+862923,"Laramie, WY",nan,United States of America,United States of America,1
+862924,"Leon Valley, TX",nan,United States of America,United States of America,1
+862932,"Superior, CO",nan,United States of America,United States of America,1
+862936,"City of Melrose, MA",nan,United States of America,United States of America,1
+862945,Nueva Concepción,nan,Guatemala,Latin America,1
+862946,Manta,Manta,Ecuador,Latin America,1
+862946,Manta,nan,Ecuador,Latin America,1
+862950,Prefeitura de Rafard,nan,Brazil,Latin America,1
+862956,Inashiki City,nan,Japan,East Asia,2
+863000,Lo Barnechea,Santiago,Chile,Latin America,1
+863001,Puerto Varas,nan,Chile,Latin America,2
+863086,Embu City,Embu,Kenya,Africa,1
+863086,Embu City,nan,Kenya,Africa,1
+863156,Nongsamrong City,nan,Thailand,Southeast Asia,1
+863190,Renca,nan,Chile,Latin America,2
+863201,Sanggau Regency,nan,Indonesia,Southeast Asia,1
+863202,Trenggalek Regency,nan,Indonesia,Southeast Asia,1
+863203,Lampung Barat Regency,nan,Indonesia,Southeast Asia,1
+863204,Pesisir Barat Regency,nan,Indonesia,Southeast Asia,1
+863205,Gorontalo Regency,nan,Indonesia,Southeast Asia,1
+863206,Langsa City,nan,Indonesia,Southeast Asia,1
+863207,West Nusa Tenggara Province,nan,Indonesia,Southeast Asia,1
+863220,Lenakel Town Municipal Council,nan,Vanuatu,Oceania,1
+863224,East Central Florida Regional Planning Council,nan,United States of America,United States of America,1
+863238,Stadt St.Gallen,nan,Switzerland,Europe,1
+863239,New Town Kolkata,nan,India,South Asia,1
+863255,Municipio de Tierras Altas,nan,Panama,Latin America,1
+863330,Rourkela,nan,India,South Asia,1
+863333,Tam Ky,nan,Viet Nam,Southeast Asia,1
+863335,Commune de Garoua II,nan,Cameroon,Africa,1
+863336,Commune de Garoua III,nan,Cameroon,Africa,1
+863397,Ville de Delémont,nan,Switzerland,Europe,1
+863405,"City of Boca Raton, FL",nan,United States of America,United States of America,1
+863407,"Town of Durham, NH",nan,United States of America,United States of America,2
+863412,"City of Tumwater, WA",nan,United States of America,United States of America,2
+863436,Stadt Thun,nan,Switzerland,Europe,1
+863463,Valle de Santiago,nan,Mexico,Latin America,2
+863464,Tilarán,nan,Costa Rica,Latin America,1
+863469,San Bernardo,nan,Chile,Latin America,2
+863478,Coatzacoalcos,nan,Mexico,Latin America,1
+863479,Heroica Guaymas de Zaragoza,nan,Mexico,Latin America,2
+863498,Zinacantepec,nan,Mexico,Latin America,1
+863533,San Antonio,nan,Chile,Latin America,2
+863563,Prefeitura de Varjota,nan,Brazil,Latin America,1
+863564,Prefeitura de Graça,nan,Brazil,Latin America,1
+863676,Lujan de Cuyo,nan,Argentina,Latin America,1
+863791,Hinginghat,nan,India,South Asia,1
+863833,Provincia de Jujuy,nan,Argentina,Latin America,1
+866387,Municipality of Lleida,nan,Spain,Europe,1
+866486,City of Trebinje,nan,Bosnia & Herzegovina,Europe,1
+866513,Municipality of Boguchwała,nan,Poland,Europe,1
+866598,"Chemung County, NY",nan,United States of America,United States of America,1
+866887,"City of Bexley, OH",nan,United States of America,United States of America,1
+866890,"City of Prairie Village, KS",nan,United States of America,United States of America,1
+866901,Prefeitura de São Sepé,nan,Brazil,Latin America,1
+866903,Prefeitura de Itapipoca,nan,Brazil,Latin America,1
+866940,Fokoué,nan,Cameroon,Africa,1
+867139,Samsø Municipality,nan,Denmark,Europe,1
+867148,Tórshavn Municipality,nan,Faroe Islands,Europe,1
+867201,Kujalleq Municipality,nan,Greenland,Europe,1
+867214,Town of Avigliana,nan,Italy,Europe,1
+867322,Prefeitura de Itabirito,Prefeitura de Itabirito,Brazil,Latin America,1
+867323,Prefeitura de Itatiaiuçu,nan,Brazil,Latin America,1
+867324,Prefeitura de Paracatu,nan,Brazil,Latin America,1
+867325,Prefeitura de São Gonçalo do Rio Abaixo,nan,Brazil,Latin America,1
+867326,Prefeitura de Taquaraçu de Minas,nan,Brazil,Latin America,1
+867327,Prefeitura de Tubarão,nan,Brazil,Latin America,1
+867335,Prefeitura de Barra do Garça,nan,Brazil,Latin America,1
+867940,Municipio de Cajicá,nan,Colombia,Latin America,1
+868271,Siak Regency,nan,Indonesia,Southeast Asia,1
+884005,Dhaka South City,nan,Bangladesh,South Asia,1
+884369,Guerrero,nan,Mexico,Latin America,1
+884370,Morelos,nan,Mexico,Latin America,1
+884371,Nayarit,nan,Mexico,Latin America,1
+884372,Tlaxcala,nan,Mexico,Latin America,1
+884375,Yondó,nan,Colombia,Latin America,1
+884378,Abejorral,nan,Colombia,Latin America,1
+884384,Belmira,nan,Colombia,Latin America,1
+884385,Ebéjico,nan,Colombia,Latin America,1
+884390,Jardín,nan,Colombia,Latin America,1
+884392,Guarne,nan,Colombia,Latin America,1
+889401,Sorø Municipality,nan,Denmark,Europe,1
+889404,Ataşehir Municipality,nan,Turkey,Europe,1
+891105,Prefeitura de Alvorada D’Oeste,nan,Brazil,Latin America,1
+891129,Prefeitura de Boa Esperança,nan,Brazil,Latin America,1
+891145,Prefeitura de Ibiraçú,nan,Brazil,Latin America,1
+891151,Prefeitura de Iúna,nan,Brazil,Latin America,1
+891179,Prefeitura de São Roque do Canaã,nan,Brazil,Latin America,1
+891185,Prefeitura de Vila Pavão,nan,Brazil,Latin America,1
+891188,Prefeitura de Itaúna,nan,Brazil,Latin America,1
+893774,San Miguel (Chile),nan,Chile,Latin America,1
+894047,General Ramirez,nan,Argentina,Latin America,1
+894048,Despeñaderos,nan,Argentina,Latin America,1
+894049,San José de la Esquina,nan,Argentina,Latin America,1
+894050,Catriel,nan,Argentina,Latin America,1
+894051,Cipoletti,nan,Argentina,Latin America,1
+894137,Cao Lanh,nan,Viet Nam,Southeast Asia,1
+894138,Nam Dinh,nan,Viet Nam,Southeast Asia,1
+894139,Sa Pa,nan,Viet Nam,Southeast Asia,1
+894632,Brikama Area Council,nan,Gambia,Africa,1
+894633,Kuntaur Area Council,nan,Gambia,Africa,1
+894634,Mairie de Port-Gentil,nan,Gabon,Africa,1
+894650,City of Nyandarua,nan,Kenya,Africa,1
+894653,M'Bout,nan,Mauritania,Africa,1
+895053,Sabach Sanjal Community,nan,Gambia,Africa,1
+895087,Municipalité de Feshi,nan,Democratic Republic of the Congo,Africa,1
+895094,Municipalité de Kikwit,Kinshasa,Democratic Republic of the Congo,Africa,1
+895157,Lancashire County Council (City),nan,United Kingdom of Great Britain and Northern Ireland,Europe,1
+895230,Municipalité de Kinshasa,nan,Democratic Republic of the Congo,Africa,1
+895257,Prefeitura de Barcarena,nan,Brazil,Latin America,1
+895260,Bamenda City Council,nan,Cameroon,Africa,1
+895278,GENERAL TREVIÑO,nan,Mexico,Latin America,1
+895384,Tône 4,nan,Togo,Africa,1
+895690,City of Serrenti,nan,Italy,Europe,1
+895717,Prefeitura de Palmeira das Missões,nan,Brazil,Latin America,1

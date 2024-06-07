@@ -174,111 +174,110 @@ storage_account_access_key = 'rf/4ogYc/eG+oqVD8K9xjsVamosf1qO1s0Kab+ujHsTt0GjaGY
 spark.conf.set('fs.azure.account.key.' + storage_account_name + '.blob.core.windows.net', storage_account_access_key)
 blob_container = 'datasets'
 
-path_2012 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2012_Cities_Climate_Hazards.csv"
-path_2013 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2013_Cities_Climate_Hazards.csv"
-path_2014 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2014_Cities_Climate_Hazards.csv"
-path_2015 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2015_Cities_Climate_Hazards.csv"
-path_2016 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2016_Cities_Climate_Hazards.csv"
-path_2017 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2017_Cities_Climate_Hazards.csv"
-path_2018 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2018_Cities_Climate_Hazards.csv"
-path_2019 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2019_Cities_Climate_Hazards.csv"
-path_2020 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2020_Cities_Climate_Hazards.csv"
-path_2021 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2021_Cities_Climate_Hazards.csv"
-path_2022 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2022_Cities_Climate_Hazards.csv"
-path_2023 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Climate_Hazards/2023_Cities_Climate_Hazards.csv"
+path_2012 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2012_Cities_Emissions_Reduction_Actions.csv"
+path_2013 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2013_Cities_Emissions_Reduction_Actions.csv"
+path_2014 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2014_Cities_Emissions_Reduction_Actions.csv"
+path_2015 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2015_Cities_Emissions_Reduction_Actions.csv"
+path_2016 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2016_Cities_Emissions_Reduction_Actions.csv"
+path_2017 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2017_Cities_Emissions_Reduction_Actions.csv"
+#path_2018 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2018_Cities_Emissions_Reduction_Actions.csv"
+path_2019 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2019_Cities_Emissions_Reduction_Actions.csv"
+path_2020 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2020_Cities_Emissions_Reduction_Actions.csv"
+path_2021 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2021_Cities_Emissions_Reduction_Actions.csv"
+path_2022 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2022_Cities_Emissions_Reduction_Actions.csv"
+path_2023 = "wasbs://" + blob_container + "@" + storage_account_name + ".blob.core.windows.net/Emissions_reduction_actions/2023_Cities_Emissions_Reduction_Actions.csv"
 
-
-climate_hazards_2012 = spark.read.format("csv").load(path_2012, inferSchema = True, header = True)
-climate_hazards_2013 = spark.read.format("csv").load(path_2013, inferSchema = True, header = True)
-climate_hazards_2014 = spark.read.format("csv").load(path_2014, inferSchema = True, header = True)
-climate_hazards_2015 = spark.read.format("csv").load(path_2015, inferSchema = True, header = True)
-climate_hazards_2016 = spark.read.format("csv").load(path_2016, inferSchema = True, header = True)
-climate_hazards_2017 = spark.read.format("csv").load(path_2017, inferSchema = True, header = True)
-climate_hazards_2018 = spark.read.format("csv").load(path_2018, inferSchema = True, header = True)
-climate_hazards_2019 = spark.read.format("csv").load(path_2019, inferSchema = True, header = True)
-climate_hazards_2020 = spark.read.format("csv").load(path_2020, inferSchema = True, header = True)
-climate_hazards_2021 = spark.read.format("csv").load(path_2021, inferSchema = True, header = True)
-climate_hazards_2022 = spark.read.format("csv").load(path_2022, inferSchema = True, header = True)
-climate_hazards_2023 = spark.read.format("csv").load(path_2023, inferSchema = True, header = True)
+actions_2012 = spark.read.format("csv").load(path_2012, inferSchema = True, header = True)
+actions_2013 = spark.read.format("csv").load(path_2013, inferSchema = True, header = True)
+actions_2014 = spark.read.format("csv").load(path_2014, inferSchema = True, header = True)
+actions_2015 = spark.read.format("csv").load(path_2015, inferSchema = True, header = True)
+actions_2016 = spark.read.format("csv").load(path_2016, inferSchema = True, header = True)
+actions_2017 = spark.read.format("csv").load(path_2017, inferSchema = True, header = True)
+#actions_2018 = spark.read.format("csv").load(path_2018, inferSchema = True, header = True)
+#actions_2019 = spark.read.format("csv").load(path_2019, inferSchema = True, header = True)
+actions_2020 = spark.read.format("csv").load(path_2020, inferSchema = True, header = True)
+actions_2021 = spark.read.format("csv").load(path_2021, inferSchema = True, header = True)
+actions_2022 = spark.read.format("csv").load(path_2022, inferSchema = True, header = True)
+actions_2023 = spark.read.format("csv").load(path_2023, inferSchema = True, header = True)
 
 # COMMAND ----------
 
-# Pivot column name to columns for 2018 dataset (only one that needs it)
-climate_hazards_2018 = climate_hazards_2018.groupBy("Questionnaire", "Account Number", "Row Number") \
-             .pivot("Column Name") \
-             .agg({"Response Answer": "first"}) \
-             .orderBy("Questionnaire", "Account Number", "Row Number")
+display(actions_2017)
+
+# COMMAND ----------
+
+# Buscar datos el Full dataset de 2018 y 2019
 
 # COMMAND ----------
 
 # Rename columns
-climate_hazards_2012 = climate_hazards_2012.withColumnRenamed("Account No", "account")\
+actions_2012 = actions_2012.withColumnRenamed("Account No", "account")\
 .withColumnRenamed("Reporting Year", "year")\
 .withColumnRenamed("Effects of Climate Change", "hazard")\
 .withColumnRenamed("Risk Level", "hazard_magnitude")\
 .withColumnRenamed("Risk Timescale", "hazard_timescale")
-climate_hazards_2013 = climate_hazards_2013.withColumnRenamed("Account No", "account")\
+actions_2013 = actions_2013.withColumnRenamed("Account No", "account")\
 .withColumnRenamed("Reporting Year", "year")\
 .withColumnRenamed("Effects of Climate Change", "hazard")\
 .withColumnRenamed("Risk Level", "hazard_magnitude")\
 .withColumnRenamed("Risk Timescale", "hazard_timescale")
-climate_hazards_2014 = climate_hazards_2014.withColumnRenamed("Account No", "account")\
+actions_2014 = actions_2014.withColumnRenamed("Account No", "account")\
 .withColumnRenamed("Reporting Year", "year")\
 .withColumnRenamed("Effects of Climate Change", "hazard")\
 .withColumnRenamed("Risk Level", "hazard_magnitude")\
 .withColumnRenamed("Risk Timescale", "hazard_timescale")
-climate_hazards_2015 = climate_hazards_2015.withColumnRenamed("Account No", "account")\
+actions_2015 = actions_2015.withColumnRenamed("Account No", "account")\
 .withColumnRenamed("Reporting Year", "year")\
 .withColumnRenamed("Effects of climate change", "hazard")\
 .withColumnRenamed("Magnitude", "hazard_magnitude")\
 .withColumnRenamed("Anticipated timescale in years", "hazard_timescale")
-climate_hazards_2016= climate_hazards_2016.withColumnRenamed("Account No", "account")\
+actions_2016= actions_2016.withColumnRenamed("Account No", "account")\
 .withColumnRenamed("Reporting Year", "year")\
 .withColumnRenamed(" Climate hazards​", "hazard")\
 .withColumnRenamed("Magnitude of impact", "hazard_magnitude")
-climate_hazards_2017 = climate_hazards_2017.withColumnRenamed("Account number", "account")\
+actions_2017 = actions_2017.withColumnRenamed("Account number", "account")\
 .withColumnRenamed("Project Year", "year")\
 .withColumnRenamed("Climate Hazards", "hazard")\
 .withColumnRenamed("Magnitude of Impact", "hazard_magnitude")
-climate_hazards_2018 = climate_hazards_2018.withColumnRenamed("Questionnaire", "year")\
+actions_2018 = actions_2018.withColumnRenamed("Questionnaire", "year")\
 .withColumnRenamed("Account Number", "account")\
 .withColumnRenamed("Anticipated timescale", "hazard_timescale")\
 .withColumnRenamed("Climate Hazards", "hazard")\
 .withColumnRenamed("Magnitude of impact", "hazard_magnitude")
-climate_hazards_2019 = climate_hazards_2019.withColumnRenamed("Questionnaire Name", "year")\
+actions_2019 = actions_2019.withColumnRenamed("Questionnaire Name", "year")\
 .withColumnRenamed("Account Number", "account")\
 .withColumnRenamed("Climate Hazards", "hazard")\
 .withColumnRenamed("Current consequence of hazard", "hazard_magnitude")\
 .withColumnRenamed("When do you first expect to experience those changes?", "hazard_timescale")
-climate_hazards_2020 = climate_hazards_2020.withColumnRenamed("Questionnaire Name", "year")\
+actions_2020 = actions_2020.withColumnRenamed("Questionnaire Name", "year")\
 .withColumnRenamed("Account Number", "account")\
 .withColumnRenamed("Climate Hazards", "hazard")\
 .withColumnRenamed("Current magnitude of hazard", "hazard_magnitude")\
 .withColumnRenamed("When do you first expect to experience those changes in frequency and intensity?", "hazard_timescale")
-climate_hazards_2021 = climate_hazards_2021.withColumnRenamed("Questionnaire Name", "year")\
+actions_2021 = actions_2021.withColumnRenamed("Questionnaire Name", "year")\
 .withColumnRenamed("Account Number", "account")\
 .withColumnRenamed("Climate Hazards", "hazard")\
 .withColumnRenamed("Current magnitude of hazard", "hazard_magnitude")\
 .withColumnRenamed("When do you first expect to experience those changes in frequency and intensity?", "hazard_timescale")
-climate_hazards_2022 = climate_hazards_2022.withColumnRenamed("Reporting Year", "year")\
+actions_2022 = actions_2022.withColumnRenamed("Reporting Year", "year")\
 .withColumnRenamed("Organization Number", "account")\
 .withColumnRenamed("Climate-related hazards", "hazard")\
 .withColumnRenamed("Current magnitude of impact of hazard", "hazard_magnitude")\
 .withColumnRenamed("Timeframe of expected future changes", "hazard_timescale")
-climate_hazards_2023 = climate_hazards_2023.withColumnRenamed("Questionnaire", "year")\
+actions_2023 = actions_2023.withColumnRenamed("Questionnaire", "year")\
 .withColumnRenamed("Organization Number", "account")\
 .withColumnRenamed("Climate-related hazards", "hazard")\
 .withColumnRenamed("Current magnitude of impact of hazard", "hazard_magnitude")\
 .withColumnRenamed("Timeframe of expected future changes", "hazard_timescale")
 
 # Create missing columns 
-climate_hazards_2016= climate_hazards_2016.withColumn("hazard_timescale", lit(None))
-climate_hazards_2017 = climate_hazards_2017.withColumn("hazard_timescale", lit(None))
+actions_2016= actions_2016.withColumn("hazard_timescale", lit(None))
+actions_2017 = actions_2017.withColumn("hazard_timescale", lit(None))
 
 
 # COMMAND ----------
 
-display(climate_hazards_2016)
+display(actions_2016)
 
 # COMMAND ----------
 
@@ -286,18 +285,18 @@ display(climate_hazards_2016)
 columns = ["account","year","hazard","hazard_magnitude","hazard_timescale"]
 
 # Dfs to append
-dataframes = [climate_hazards_2012,
-climate_hazards_2013,
-climate_hazards_2014,
-climate_hazards_2015,
-climate_hazards_2016,
-climate_hazards_2017,
-climate_hazards_2018,
-climate_hazards_2019,
-climate_hazards_2020,
-climate_hazards_2021,
-climate_hazards_2022,
-climate_hazards_2023]
+dataframes = [actions_2012,
+actions_2013,
+actions_2014,
+actions_2015,
+actions_2016,
+actions_2017,
+actions_2018,
+actions_2019,
+actions_2020,
+actions_2021,
+actions_2022,
+actions_2023]
 
 # Append all dfs
 climate_hazards = append_dfs(dataframes, columns)
@@ -537,7 +536,7 @@ climate_hazards = climate_hazards.groupBy('account_year', 'account', 'year', 'ha
 )
 
 # Generate General measures
-climate_hazards_1 = climate_hazards.groupBy('account_year', 'account', 'year') \
+actions_1 = climate_hazards.groupBy('account_year', 'account', 'year') \
     .agg(
     count('*').alias('hazard_count'), 
     avg('hazard_magnitude_avg').alias('hazard_magnitude_avg'),
@@ -546,7 +545,7 @@ climate_hazards_1 = climate_hazards.groupBy('account_year', 'account', 'year') \
     sum('hazard_timescale_sum').alias('hazard_timescale_sum'))
 
 # Generate Specific measures by hazard_group
-climate_hazards_2 = climate_hazards.groupBy('account_year').pivot('hazard_group') \
+actions_2 = climate_hazards.groupBy('account_year').pivot('hazard_group') \
     .agg(first('hazard_count').alias('count'), 
          first('hazard_magnitude_avg').alias('magnitude_avg'), 
          first('hazard_magnitude_sum').alias('magnitude_sum'), 
@@ -555,25 +554,25 @@ climate_hazards_2 = climate_hazards.groupBy('account_year').pivot('hazard_group'
     )
 
 # Normalize column names
-climate_hazards_2 = remplazeSpacesInColumnName(climate_hazards_2)
+actions_2 = remplazeSpacesInColumnName(actions_2)
 
 # COMMAND ----------
 
 # Calculate null % for each column
-climate_hazards_2_nulls = calcular_porcentaje_nulos(climate_hazards_2)
+actions_2_nulls = calcular_porcentaje_nulos(actions_2)
 
 # Remove columnas with null % < percentage_threshold
 percentage_threshold = 51
 column_to_keep_nulls_others = []
 
-climate_hazards_2 = filter_columns_by_null_percentage(climate_hazards_2, climate_hazards_2_nulls, percentage_threshold, column_to_keep_nulls_others)
+actions_2 = filter_columns_by_null_percentage(actions_2, actions_2_nulls, percentage_threshold, column_to_keep_nulls_others)
 
-display(climate_hazards_2_nulls)
+display(actions_2_nulls)
 
 # COMMAND ----------
 
 #Join columns to prepare final df for this question group
-df_climate_hazards = climate_hazards_1.join(climate_hazards_2, on='account_year')
+df_climate_hazards = actions_1.join(actions_2, on='account_year')
 
 # Fill Nulls with 0
 df_climate_hazards = df_climate_hazards.na.fill(0)
@@ -613,11 +612,11 @@ df_climate_hazards.write.mode("overwrite").saveAsTable("default.df_climate_hazar
 
 # COMMAND ----------
 
-df_climate_hazards_c = df_climate_hazards.groupBy('account') \
+df_actions_c = df_climate_hazards.groupBy('account') \
     .agg(
     count('*').alias('count'))
 
-df_climate_hazards_c.count()
+df_actions_c.count()
 
 # COMMAND ----------
 
